@@ -1,0 +1,1288 @@
+Jan 15, 2014 1:24:21 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+Jan 15, 2014 1:24:55 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20028255445 Confirmation
+Jan 15, 2014 1:24:55 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:dengnengxiu@gmail.com
+Jan 15, 2014 1:24:56 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:24:56 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028255445
+Date:2014-01-13
+608751507 8.64
+608751507 8.64
+609941169 25.52
+609941169 25.52
+609941249 25.52
+609941249 25.52
+610077507 31.36
+610077507 31.36
+610217338 28.80
+610217338 28.80
+610392953 13.44
+610392953 13.44
+Subtotal:266.56
+Shipping:0.00
+Tax:0.00
+Total:266.56
+
+Jan 15, 2014 1:24:56 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:24:56 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028255445 status is 1
+Jan 15, 2014 1:24:56 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751507
+Jan 15, 2014 1:24:56 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751507
+Jan 15, 2014 1:24:56 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:24:56 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:24:57 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:24:57 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:24:57 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:24:57 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:24:57 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:24:57 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:24:57 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610392953
+Jan 15, 2014 1:24:57 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610392953
+Jan 15, 2014 1:24:58 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:24:58 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028255445
+Date:2014-01-13
+608751507 8.64
+608751507 8.64
+609941169 25.52
+609941169 25.52
+609941249 25.52
+609941249 25.52
+610077507 31.36
+610077507 31.36
+610217338 28.80
+610217338 28.80
+610392953 13.44
+610392953 13.44
+Subtotal:266.56
+Shipping:0.00
+Tax:0.00
+Total:266.56
+
+Jan 15, 2014 1:24:58 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028255445 status is 1
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751507
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751507
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610392953
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610392953
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Fw:Abercrombie & Fitch Order #20028262340 Confirmation
+Jan 15, 2014 1:24:59 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:bihonghao@gmail.com
+Jan 15, 2014 1:25:00 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:00 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028262340
+Date:2014-01-13
+610077494 31.36
+610077507 31.36
+610102813 33.60
+610102848 33.60
+610102856 33.60
+610152669 23.04
+610152677 23.04
+610215236 28.80
+610217282 28.80
+610217320 28.80
+610217338 28.80
+610217354 28.80
+Subtotal:353.60
+Shipping:0.00
+Tax:24.75
+Total:378.35
+
+Jan 15, 2014 1:25:00 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:00 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028262340 status is 1
+Jan 15, 2014 1:25:00 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:00 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:00 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:00 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:00 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102856
+Jan 15, 2014 1:25:01 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610152669
+Jan 15, 2014 1:25:01 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610152677
+Jan 15, 2014 1:25:01 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610215236
+Jan 15, 2014 1:25:01 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:01 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217320
+Jan 15, 2014 1:25:01 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:01 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217354
+Jan 15, 2014 1:25:02 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:02 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028262340
+Date:2014-01-13
+610077494 31.36
+610077507 31.36
+610102813 33.60
+610102848 33.60
+610102856 33.60
+610152669 23.04
+610152677 23.04
+610215236 28.80
+610217282 28.80
+610217320 28.80
+610217338 28.80
+610217354 28.80
+Subtotal:353.60
+Shipping:0.00
+Tax:24.75
+Total:378.35
+
+Jan 15, 2014 1:25:02 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028262340 status is 1
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102856
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610152669
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610152677
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610215236
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217320
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:03 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217354
+Jan 15, 2014 1:25:04 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:FW: Abercrombie & Fitch Order #20028042012 Has Shipped
+Jan 15, 2014 1:25:04 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:cqhbzyaigo@hotmail.com
+Jan 15, 2014 1:25:04 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:04 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028042012
+Date:2014-01-12
+610077540 31.36
+610217354 28.80
+610102813 33.60
+610077540 31.36
+610217320 28.80
+610102856 33.60
+610102813 33.60
+610102856 33.60
+610217354 28.80
+609762030 27.20
+609762030 27.20
+610217320 28.80
+Subtotal:366.72
+Shipping:0.00
+Tax:22.00
+Total:388.72
+
+Jan 15, 2014 1:25:04 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028042012 status is 2
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077540
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217354
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077540
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217320
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102856
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102856
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217354
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:05 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217320
+Jan 15, 2014 1:25:06 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:06 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028042012
+Date:2014-01-12
+Order:20028042012
+Date:2014-01-12
+
+Jan 15, 2014 1:25:06 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:06 PM com.app.afapp.reademails.saveData saveOrderData
+WARNING: Order :20028042012, the total is zero!
+Jan 15, 2014 1:25:06 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20028164276 Has Shipped
+Jan 15, 2014 1:25:06 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:jiangyy12@gmail.com
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028164276
+Date:2014-01-13
+608839787 19.04
+609941231 25.52
+609941185 25.52
+608839867 19.04
+609399980 6.72
+609866621 27.20
+609762021 27.20
+609866381 27.20
+609943252 25.52
+609762030 27.20
+609399980 6.72
+609866656 27.20
+Subtotal:264.08
+Shipping:0.00
+Tax:0.00
+Total:264.08
+
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028164276 status is 2
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608839787
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941231
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941185
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608839867
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609399980
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609866621
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609866381
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609943252
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609399980
+Jan 15, 2014 1:25:07 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609866656
+Jan 15, 2014 1:25:09 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:09 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028164276
+Date:2014-01-13
+608839787 19.04
+609941231 25.52
+609941185 25.52
+608839867 19.04
+609399980 6.72
+609866621 27.20
+609762021 27.20
+609866381 27.20
+609943252 25.52
+609762030 27.20
+609399980 6.72
+609866656 27.20
+Subtotal:264.08
+Shipping:0.00
+Tax:0.00
+Total:264.08
+
+Jan 15, 2014 1:25:09 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:09 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20027157749 Confirmation
+Jan 15, 2014 1:25:09 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:poboxlinsen@gmail.com
+Jan 15, 2014 1:25:09 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:09 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20027157749
+Date:2014-01-13
+609762021 27.20
+609762021 27.20
+610077494 31.36
+610077494 31.36
+610102813 33.60
+610102813 33.60
+610102848 33.60
+610102848 33.60
+610217282 28.80
+610217282 28.80
+610217338 28.80
+610217338 28.80
+Subtotal:366.72
+Shipping:0.00
+Tax:22.00
+Total:388.72
+
+Jan 15, 2014 1:25:09 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20027157749 status is 1
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:10 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20027157749
+Date:2014-01-13
+609762021 27.20
+609762021 27.20
+610077494 31.36
+610077494 31.36
+610102813 33.60
+610102813 33.60
+610102848 33.60
+610102848 33.60
+610217282 28.80
+610217282 28.80
+610217338 28.80
+610217338 28.80
+Subtotal:366.72
+Shipping:0.00
+Tax:22.00
+Total:388.72
+
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20027157749 status is 1
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:12 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:13 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20028210750 Has Shipped
+Jan 15, 2014 1:25:13 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:yangshi777@gmail.com
+Jan 15, 2014 1:25:13 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:13 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028210750
+Date:2014-01-13
+609762030 27.20
+610077507 31.36
+610102848 33.60
+610102813 33.60
+610217282 28.80
+610102848 33.60
+610102813 33.60
+610217282 28.80
+610217354 28.80
+610217354 28.80
+610077507 31.36
+609762030 27.20
+Subtotal:366.72
+Shipping:0.00
+Tax:22.00
+Total:388.72
+
+Jan 15, 2014 1:25:13 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028210750 status is 2
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217354
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217354
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:14 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:15 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:15 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028210750
+Date:2014-01-13
+609762030 27.20
+610077507 31.36
+610102848 33.60
+610102813 33.60
+610217282 28.80
+610102848 33.60
+610102813 33.60
+610217282 28.80
+610217354 28.80
+610217354 28.80
+610077507 31.36
+609762030 27.20
+Subtotal:366.72
+Shipping:0.00
+Tax:22.00
+Total:388.72
+
+Jan 15, 2014 1:25:15 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20027020602 Confirmation
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:maoyi.fudan@gmail.com
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20027020602
+Date:2014-01-14
+608751443 9.60
+608751443 9.60
+609762021 27.20
+609762021 27.20
+609941169 23.20
+609941169 23.20
+609941249 23.20
+609941249 23.20
+610077507 39.20
+610077507 39.20
+610190112 10.20
+610190112 10.20
+Subtotal:265.20
+Shipping:0.00
+Tax:15.91
+Total:281.11
+
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20027020602 status is 1
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751443
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751443
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:25:16 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:17 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:17 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610190112
+Jan 15, 2014 1:25:17 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610190112
+Jan 15, 2014 1:25:18 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:18 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20027020602
+Date:2014-01-14
+608751443 9.60
+608751443 9.60
+609762021 27.20
+609762021 27.20
+609941169 23.20
+609941169 23.20
+609941249 23.20
+609941249 23.20
+610077507 39.20
+610077507 39.20
+610190112 10.20
+610190112 10.20
+Subtotal:265.20
+Shipping:0.00
+Tax:15.91
+Total:281.11
+
+Jan 15, 2014 1:25:18 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20027020602 status is 1
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751443
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751443
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610190112
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610190112
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20028210289 Has Shipped
+Jan 15, 2014 1:25:19 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:abercrombie00002@gmail.com
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028210289
+Date:2014-01-13
+610217282 28.80
+610077540 31.36
+610102813 33.60
+609762030 27.20
+610102848 33.60
+610102813 33.60
+609762030 27.20
+610077540 31.36
+610217282 28.80
+610217320 28.80
+610102848 33.60
+610217320 28.80
+Subtotal:366.72
+Shipping:0.00
+Tax:22.00
+Total:388.72
+
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028210289 status is 2
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077540
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077540
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217320
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:20 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217320
+Jan 15, 2014 1:25:22 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:22 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028210289
+Date:2014-01-13
+610217282 28.80
+610077540 31.36
+610102813 33.60
+609762030 27.20
+610102848 33.60
+610102813 33.60
+609762030 27.20
+610077540 31.36
+610217282 28.80
+610217320 28.80
+610102848 33.60
+610217320 28.80
+Subtotal:366.72
+Shipping:0.00
+Tax:22.00
+Total:388.72
+
+Jan 15, 2014 1:25:22 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:22 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20027157749 Has Shipped
+Jan 15, 2014 1:25:22 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:poboxlinsen@gmail.com
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20027157749
+Date:2014-01-13
+610102813 33.60
+610217282 28.80
+610217338 28.80
+610102813 33.60
+609762021 27.20
+610102848 33.60
+610217338 28.80
+610102848 33.60
+609762021 27.20
+610077494 31.36
+610217282 28.80
+610077494 31.36
+Subtotal:366.72
+Shipping:0.00
+Tax:22.00
+Total:388.72
+
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20027157749 status is 2
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:23 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:25 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:25 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20027157749
+Date:2014-01-13
+610102813 33.60
+610217282 28.80
+610217338 28.80
+610102813 33.60
+609762021 27.20
+610102848 33.60
+610217338 28.80
+610102848 33.60
+609762021 27.20
+610077494 31.36
+610217282 28.80
+610077494 31.36
+Subtotal:366.72
+Shipping:0.00
+Tax:22.00
+Total:388.72
+
+Jan 15, 2014 1:25:25 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20028219396 Has Shipped
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:xdytksl@gmail.com
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028219396
+Date:2014-01-13
+610077460 31.36
+610217282 28.80
+610217320 28.80
+609941169 25.52
+610102848 33.60
+609941249 25.52
+610102813 33.60
+610077540 31.36
+609762030 27.20
+610152669 23.04
+Subtotal:288.80
+Shipping:0.00
+Tax:0.00
+Total:288.80
+
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028219396 status is 2
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077460
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217320
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:26 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077540
+Jan 15, 2014 1:25:27 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:27 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610152669
+Jan 15, 2014 1:25:28 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:28 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028219396
+Date:2014-01-13
+610077460 31.36
+610217282 28.80
+610217320 28.80
+609941169 25.52
+610102848 33.60
+609941249 25.52
+610102813 33.60
+610077540 31.36
+609762030 27.20
+610152669 23.04
+Subtotal:288.80
+Shipping:0.00
+Tax:0.00
+Total:288.80
+
+Jan 15, 2014 1:25:28 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:29 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20028234349 Has Shipped
+Jan 15, 2014 1:25:29 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:zh88981@gmail.com
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028234349
+Date:2014-01-13
+610102813 33.60
+609762030 27.20
+610102848 33.60
+610217338 28.80
+610077515 31.36
+610190147 10.88
+609762030 27.20
+610217338 28.80
+610102813 33.60
+610190147 10.88
+610102848 33.60
+610077515 31.36
+Subtotal:330.88
+Shipping:0.00
+Tax:0.00
+Total:330.88
+
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028234349 status is 2
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077515
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610190147
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762030
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610190147
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077515
+Jan 15, 2014 1:25:32 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:32 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028234349
+Date:2014-01-13
+610102813 33.60
+609762030 27.20
+610102848 33.60
+610217338 28.80
+610077515 31.36
+610190147 10.88
+609762030 27.20
+610217338 28.80
+610102813 33.60
+610190147 10.88
+610102848 33.60
+610077515 31.36
+Subtotal:330.88
+Shipping:0.00
+Tax:0.00
+Total:330.88
+
+Jan 15, 2014 1:25:32 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:32 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fw: Abercrombie & Fitch Order #20028381938 Confirmation
+Jan 15, 2014 1:25:32 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:shmtu001@yahoo.com
+Jan 15, 2014 1:25:33 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:33 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028381938
+Date:2014-01-14
+608751486 9.60
+608751486 9.60
+609941151 23.20
+609941151 23.20
+609941231 23.20
+609941231 23.20
+610077494 39.20
+610077507 39.20
+Subtotal:190.40
+Shipping:0.00
+Tax:15.71
+Total:206.11
+
+Jan 15, 2014 1:25:33 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:33 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028381938 status is 1
+Jan 15, 2014 1:25:33 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751486
+Jan 15, 2014 1:25:34 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751486
+Jan 15, 2014 1:25:34 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941151
+Jan 15, 2014 1:25:34 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941151
+Jan 15, 2014 1:25:34 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941231
+Jan 15, 2014 1:25:34 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941231
+Jan 15, 2014 1:25:34 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:34 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028381938
+Date:2014-01-14
+608751486 9.60
+608751486 9.60
+609941151 23.20
+609941151 23.20
+609941231 23.20
+609941231 23.20
+610077494 39.20
+610077507 39.20
+Subtotal:190.40
+Shipping:0.00
+Tax:15.71
+Total:206.11
+
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028381938 status is 1
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751486
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751486
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941151
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941151
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941231
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941231
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077494
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fw: Abercrombie & Fitch Order #20028382462 Confirmation
+Jan 15, 2014 1:25:35 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:shmtu002@yahoo.com
+Jan 15, 2014 1:25:36 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:36 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028382462
+Date:2014-01-15
+608751494 9.60
+608751494 9.60
+609762021 27.20
+609762021 27.20
+609941169 23.20
+609941169 23.20
+610077507 39.20
+610077507 39.20
+Subtotal:198.40
+Shipping:0.00
+Tax:16.37
+Total:214.77
+
+Jan 15, 2014 1:25:36 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:36 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028382462 status is 1
+Jan 15, 2014 1:25:36 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751494
+Jan 15, 2014 1:25:36 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751494
+Jan 15, 2014 1:25:36 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:36 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:37 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:37 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:37 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:37 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028382462
+Date:2014-01-15
+608751494 9.60
+608751494 9.60
+609762021 27.20
+609762021 27.20
+609941169 23.20
+609941169 23.20
+610077507 39.20
+610077507 39.20
+Subtotal:198.40
+Shipping:0.00
+Tax:16.37
+Total:214.77
+
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028382462 status is 1
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751494
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751494
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:38 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:39 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: ???Abercrombie & Fitch Order #20028256066 Confirmation
+Jan 15, 2014 1:25:39 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:bihonghao@gmail.com
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028256066
+Date:2014-01-13
+610077507 31.36
+610077515 31.36
+610102805 33.60
+610102813 33.60
+610102848 33.60
+610102856 33.60
+610215236 28.80
+610215244 28.80
+610217282 28.80
+610217291 28.80
+610217338 28.80
+610217346 28.80
+Subtotal:369.92
+Shipping:0.00
+Tax:25.89
+Total:395.81
+
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028256066 status is 1
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077515
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102805
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102856
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610215236
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610215244
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217291
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:40 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217346
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20028256066
+Date:2014-01-13
+610077507 31.36
+610077515 31.36
+610102805 33.60
+610102813 33.60
+610102848 33.60
+610102856 33.60
+610215236 28.80
+610215244 28.80
+610217282 28.80
+610217291 28.80
+610217338 28.80
+610217346 28.80
+Subtotal:369.92
+Shipping:0.00
+Tax:25.89
+Total:395.81
+
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20028256066 status is 1
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077515
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102805
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102813
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102848
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610102856
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610215236
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610215244
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217282
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217291
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217338
+Jan 15, 2014 1:25:42 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610217346
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20027020602 Has Shipped
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:maoyi.fudan@gmail.com
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20027020602
+Date:2014-01-14
+609762021 27.20
+610077507 39.20
+608751443 9.60
+609941169 23.20
+609762021 27.20
+610190112 10.20
+609941169 23.20
+609941249 23.20
+610077507 39.20
+608751443 9.60
+609941249 23.20
+Subtotal:255.00
+Shipping:0.00
+Tax:15.30
+Total:270.30
+
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20027020602 status is 2
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751443
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609762021
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610190112
+Jan 15, 2014 1:25:43 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941169
+Jan 15, 2014 1:25:44 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:25:44 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610077507
+Jan 15, 2014 1:25:44 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 608751443
+Jan 15, 2014 1:25:44 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 609941249
+Jan 15, 2014 1:25:45 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+Jan 15, 2014 1:25:45 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20027020602
+Date:2014-01-14
+609762021 27.20
+610077507 39.20
+608751443 9.60
+609941169 23.20
+609762021 27.20
+610190112 10.20
+609941169 23.20
+609941249 23.20
+610077507 39.20
+608751443 9.60
+609941249 23.20
+Subtotal:255.00
+Shipping:0.00
+Tax:15.30
+Total:270.30
+
+Jan 15, 2014 1:25:45 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+Jan 15, 2014 1:25:47 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!7
+Jan 15, 2014 1:25:48 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!8
+Jan 15, 2014 1:25:48 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :15
