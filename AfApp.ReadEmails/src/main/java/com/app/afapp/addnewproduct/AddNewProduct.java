@@ -31,7 +31,7 @@ public class AddNewProduct {
     public static void main(String[] args) throws IOException, SQLException, FileNotFoundException, ClassNotFoundException, ParseException, MalformedURLException, XPatherException {
         // TODO code application logic here
 
-        String inputfile = "C:\\Users\\xxkyh_000\\Desktop\\NewLinks.txt";
+        String inputfile = "/Users/admin/Documents/afAppJava/NewLinks.txt";
         
         BufferedReader bufferedReader = new BufferedReader( new FileReader(inputfile));
         StringBuffer links = new StringBuffer();
@@ -44,7 +44,7 @@ public class AddNewProduct {
         int limit = 100000;
         Logger logger = Logger.getLogger("AddNewProduct");
 
-        Handler fh = new FileHandler("C:\\Users\\xxkyh_000\\Desktop\\addNewProduct.log", limit, 1, true);
+        Handler fh = new FileHandler("/Users/admin/Documents/afAppJava/addNewProduct.log", limit, 1, true);
         logger.addHandler(fh);
         SimpleFormatter formatter = new SimpleFormatter();
         fh.setFormatter(formatter);

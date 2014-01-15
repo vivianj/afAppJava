@@ -61,7 +61,7 @@ public class readHTML {
     public static URLConnection getUrlConn(String url) throws MalformedURLException, IOException{ 
        CookieHandler.setDefault(new CookieManager(null, CookiePolicy.ACCEPT_ALL));
        
-       System.out.println(url);
+       //System.out.println(url);
        URL url1 = new URL(url);
        URLConnection conn = url1.openConnection();   
            
