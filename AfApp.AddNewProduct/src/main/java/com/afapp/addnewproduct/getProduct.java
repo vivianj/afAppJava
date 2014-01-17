@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.app.afapp.addnewproduct;
+package com.afapp.addnewproduct;
 
 import com.mysql.jdbc.PreparedStatement;
 import com.mysql.jdbc.Statement;
@@ -124,6 +124,8 @@ public class getProduct {
                 imgurl = "http://anf.scene7.com/is/image/anf/anf_" + webcode + "_" + seq + "_prod1?$anfCategoryJPG$";
             } else if (url.contains("hollisterco")) {
                 imgurl = "http://anf.scene7.com/is/image/anf/hol_"+webcode+"_"+seq+"_prod1?$holCategoryJPG$";
+            } else if(url.contains(seq)){
+                imgurl = "";
             }
             
             String imgpath = long_sku_id + ".jpg";

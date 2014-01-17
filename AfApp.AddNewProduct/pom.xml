@@ -12,7 +12,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <mainClass>com.afapp.afapp.adnewproduct</mainClass>
+        <mainClass>com.afapp.adnewproduct.AddNewProduct</mainClass>
     </properties>
 
     <build>
@@ -22,7 +22,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.2.1</version>
                 <configuration>
-                    <mainClass>com.afapp.afapp.addnewproduct.AddNewProduct</mainClass>
+                    <mainClass>com.afapp.addnewproduct.AddNewProduct</mainClass>
                 </configuration>
             </plugin>
         </plugins>

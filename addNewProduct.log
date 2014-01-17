@@ -122,3 +122,45 @@ Jan 15, 2014 5:11:32 PM com.app.afapp.addnewproduct.getProduct getSizes
 FINEST: 609922232 : M
 Jan 15, 2014 5:11:32 PM com.app.afapp.addnewproduct.getProduct getSizes
 FINEST: 609922241 : L
+Jan 16, 2014 11:45:32 AM com.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Jan 16, 2014 11:45:33 AM com.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-232-0384-011
+Jan 16, 2014 11:45:33 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609875106 : S
+Jan 16, 2014 11:45:33 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609875114 : M
+Jan 16, 2014 11:45:33 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609875122 : L
+Jan 16, 2014 11:45:33 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609875131 : XL
+Jan 16, 2014 11:45:33 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609875190 : XXL
+Jan 16, 2014 11:45:35 AM com.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222320384011.jpg
+Jan 16, 2014 11:45:36 AM com.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :120-210-0161-024
+Jan 16, 2014 11:45:36 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609658873 : S
+Jan 16, 2014 11:45:36 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609659016 : M
+Jan 16, 2014 11:45:36 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609658890 : L
+Jan 16, 2014 11:45:36 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609658902 : XL
+Jan 16, 2014 11:45:36 AM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 609658911 : XXL
+Jan 16, 2014 11:45:36 AM com.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1202100161024.jpg
+Jan 16, 2014 12:42:17 PM com.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Jan 16, 2014 12:42:19 PM com.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :222-627-0263-023
+Jan 16, 2014 12:42:19 PM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 610539855 : S
+Jan 16, 2014 12:42:19 PM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 610539880 : M
+Jan 16, 2014 12:42:19 PM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 610539871 : L
+Jan 16, 2014 12:42:19 PM com.afapp.addnewproduct.getProduct getSizes
+FINEST: 610539863 : XL

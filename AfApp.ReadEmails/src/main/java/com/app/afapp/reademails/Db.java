@@ -29,14 +29,14 @@ public class Db {
     public Connection con = null;
     public Statement statement= null;
     public String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    public String username = "b04a669d1b1d5a",password = "e60882cf";
-    static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappa2hwggg1ar0";
+    //public String username = "b04a669d1b1d5a",password = "e60882cf";
+    //static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappa2hwggg1ar0";
     String dbtime;
     
      public  Db(){
     }
     
-    public void dbConnect() throws ClassNotFoundException{   
+    public void dbConnect(String dbname, String username, String password) throws ClassNotFoundException{   
         try {
              Class.forName(JDBC_DRIVER);
             con = (Connection) DriverManager.getConnection(dbname, username, password);
@@ -372,7 +372,7 @@ public class Db {
                 
                 stmt.execute();
            }catch(SQLException ex){
-            Logger.getLogger(ReadHTML.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(Db.class.getName()).log(Level.SEVERE, null, ex);
            }    
         }
     
@@ -405,7 +405,7 @@ public class Db {
                 stmt.execute();
               }
            }catch(SQLException ex){
-            Logger.getLogger(ReadHTML.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(Db.class.getName()).log(Level.SEVERE, null, ex);
            }    
         }
        
@@ -430,7 +430,7 @@ public class Db {
                
                 
            }catch(SQLException ex){
-            Logger.getLogger(ReadHTML.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(Db.class.getName()).log(Level.SEVERE, null, ex);
            } 
          
          return 2;
@@ -488,7 +488,7 @@ public class Db {
                 stmt.execute();
                  
            }catch(SQLException ex){
-            Logger.getLogger(ReadHTML.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(Db.class.getName()).log(Level.SEVERE, null, ex);
            }   
        }
 }

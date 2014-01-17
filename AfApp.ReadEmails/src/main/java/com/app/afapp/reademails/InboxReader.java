@@ -34,12 +34,11 @@ public class InboxReader {
     static public Db db = new Db();
      static int userId = 0;
     
-    public static void readEmail() throws ClassNotFoundException, SQLException {
+    public static void readEmail(String username, String password, String dbname, String dbusername, String dbpassword) throws ClassNotFoundException, SQLException {
 
         String host = "imap.gmail.com";
         String protocol = "imaps";
-        String username = "kangyihong001@gmail.com";
-        String password = "831218xx";
+       
         String folder = "Inbox";
         Flags flag = new Flags(Flags.Flag.ANSWERED);
         String af_confirmation_regex = ".*?abercrombie & fitch order #.*\\d+ confirmation.*";
@@ -63,7 +62,7 @@ public class InboxReader {
             
             int i = 0;
 
-            db.dbConnect();
+            db.dbConnect(dbname, dbusername, dbpassword);
             
             for (Message message : messages) {
 
