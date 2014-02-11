@@ -170,7 +170,7 @@ public class readHTML {
                fis = new FileInputStream(inputfile);
                String filename = new File(inputfile).getName();
                
-               client.storeFile("/site/wwwroot/images/"+filename, fis);
+               client.storeFile("/images/"+filename, fis);
                client.logout();
                
                LOG.log(Level.FINEST, "UPLOAD image to ftp : " + filename);
