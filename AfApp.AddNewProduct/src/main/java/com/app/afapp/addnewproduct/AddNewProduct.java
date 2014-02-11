@@ -33,6 +33,7 @@ public class AddNewProduct {
 
         String inputfile = "/opt/NewLinks.txt";
         
+        
         BufferedReader bufferedReader = new BufferedReader( new FileReader(inputfile));
         StringBuffer links = new StringBuffer();
         String line = null;
@@ -44,7 +45,7 @@ public class AddNewProduct {
         int limit = 100000;
         Logger logger = Logger.getLogger("AddNewProduct");
 
-        Handler fh = new FileHandler("/opt/log/addNewProduct.log", limit, 1, true);
+        Handler fh = new FileHandler("/opt/addNewProduct.log", limit, 1, true);
         logger.addHandler(fh);
         SimpleFormatter formatter = new SimpleFormatter();
         fh.setFormatter(formatter);

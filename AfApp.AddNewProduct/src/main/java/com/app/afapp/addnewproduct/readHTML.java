@@ -53,7 +53,7 @@ import org.apache.commons.net.ftp.FTP;
  * @author yuanyuan
  */
 public class readHTML {
-    static String domain = "ftp://waws-prod-blu-003.ftp.azurewebsites.windows.net/site/wwwroot";
+    static String domain = "waws-prod-blu-003.ftp.azurewebsites.windows.net";
     static String user = "afapp\\$afapp";
     static String pwd = "Bg8ik95E1uN8hiLq9PBfi7kheHklKpziB8JSE5xi43k7Gn7w0uednrg5l5yA";
     private static Logger LOG = Logger.getLogger("AddNewProduct");
@@ -170,7 +170,7 @@ public class readHTML {
                fis = new FileInputStream(inputfile);
                String filename = new File(inputfile).getName();
                
-               client.storeFile("/images/"+filename, fis);
+               client.storeFile("/site/wwwroot/images/"+filename, fis);
                client.logout();
                
                LOG.log(Level.FINEST, "UPLOAD image to ftp : " + filename);
