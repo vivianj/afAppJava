@@ -109,7 +109,7 @@ public class readHTML {
 			os.write(b, 0, length);
 		}
 
-               // uploadImg(destDir+destFile, domain, user,pwd);
+                uploadImg(destDir+destFile, domain, user,pwd);
 		is.close();
 		os.close();
 	}
