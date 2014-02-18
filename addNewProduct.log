@@ -138,3 +138,19 @@ Feb 11, 2014 4:20:13 PM com.app.afapp.addnewproduct.getProduct getSizes
 FINEST: 610819785 : XXL
 Feb 11, 2014 4:20:14 PM com.app.afapp.addnewproduct.readHTML saveImage
 FINEST: Save new image : 1222320426023.jpg
+Feb 17, 2014 12:17:17 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Feb 17, 2014 12:17:18 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :157-584-0608-001
+Feb 17, 2014 12:17:18 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609788230 : XS
+Feb 17, 2014 12:17:18 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609788387 : S
+Feb 17, 2014 12:17:18 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609788256 : M
+Feb 17, 2014 12:17:18 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609788264 : L
+Feb 17, 2014 12:17:20 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1575840608001.jpg
+Feb 17, 2014 12:17:22 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1575840608001.jpg

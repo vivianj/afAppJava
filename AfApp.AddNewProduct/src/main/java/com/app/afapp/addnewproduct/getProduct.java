@@ -128,7 +128,7 @@ public class getProduct {
             
             String imgpath = long_sku_id + ".jpg";
 
-            readHTML.saveImage(imgurl, "/opt/pics/", imgpath);
+            readHTML.saveImage(imgurl, "/Users/admin/Documents/afAppJava/pics/", imgpath);
 
             mysqlConn.saveProducts(long_sku_id, longSku, Integer.parseInt(webcode), Integer.parseInt(seq), Integer.parseInt(category_id), name, color, Double.parseDouble(price.replaceAll("\\$|\\s", "")), url);
             mysqlConn.saveProductsDetail(long_sku_id, sizeCodes);
