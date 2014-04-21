@@ -154,3 +154,1673 @@ Feb 17, 2014 12:17:20 PM com.app.afapp.addnewproduct.readHTML saveImage
 FINEST: Save new image : 1575840608001.jpg
 Feb 17, 2014 12:17:22 PM com.app.afapp.addnewproduct.readHTML uploadImg
 FINEST: UPLOAD image to ftp : 1575840608001.jpg
+Feb 21, 2014 3:44:01 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Feb 21, 2014 3:44:02 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-514-0205-023
+Feb 21, 2014 3:44:03 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444320 : XS
+Feb 21, 2014 3:44:03 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444514 : S
+Feb 21, 2014 3:44:03 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444346 : M
+Feb 21, 2014 3:44:03 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444354 : L
+Feb 21, 2014 3:44:03 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611021863 : XL
+Feb 21, 2014 3:44:04 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525140205023.jpg
+Feb 21, 2014 3:44:06 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525140205023.jpg
+Feb 21, 2014 3:44:07 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-514-0205-005
+Feb 21, 2014 3:44:07 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444240 : XS
+Feb 21, 2014 3:44:07 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444258 : S
+Feb 21, 2014 3:44:07 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444266 : M
+Feb 21, 2014 3:44:07 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444311 : L
+Feb 21, 2014 3:44:07 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611021847 : XL
+Feb 21, 2014 3:44:08 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525140205005.jpg
+Feb 21, 2014 3:44:08 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525140205005.jpg
+Feb 21, 2014 3:44:09 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-514-0205-024
+Feb 21, 2014 3:44:09 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444362 : XS
+Feb 21, 2014 3:44:09 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444371 : S
+Feb 21, 2014 3:44:09 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444389 : M
+Feb 21, 2014 3:44:09 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444397 : L
+Feb 21, 2014 3:44:09 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611021871 : XL
+Feb 21, 2014 3:44:14 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525140205024.jpg
+Feb 21, 2014 3:44:14 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525140205024.jpg
+Feb 21, 2014 3:44:15 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-514-0205-028
+Feb 21, 2014 3:44:15 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444485 : XS
+Feb 21, 2014 3:44:15 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444493 : S
+Feb 21, 2014 3:44:15 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444506 : M
+Feb 21, 2014 3:44:15 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610444338 : L
+Feb 21, 2014 3:44:15 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611021812 : XL
+Feb 21, 2014 3:44:15 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525140205028.jpg
+Feb 21, 2014 3:44:16 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525140205028.jpg
+Feb 21, 2014 3:44:16 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-528-0448-029
+Feb 21, 2014 3:44:16 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611077761 : XS
+Feb 21, 2014 3:44:16 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611077779 : S
+Feb 21, 2014 3:44:16 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611077787 : M
+Feb 21, 2014 3:44:16 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611077795 : L
+Feb 21, 2014 3:44:19 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525280448029.jpg
+Feb 21, 2014 3:44:19 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525280448029.jpg
+Feb 21, 2014 3:44:20 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :147-564-0227-023
+Feb 21, 2014 3:44:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610827283 : XXS
+Feb 21, 2014 3:44:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700531 : XS
+Feb 21, 2014 3:44:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700549 : S
+Feb 21, 2014 3:44:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700557 : M
+Feb 21, 2014 3:44:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700565 : L
+Feb 21, 2014 3:44:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610827291 : XL
+Feb 21, 2014 3:44:24 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1475640227023.jpg
+Feb 21, 2014 3:44:24 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1475640227023.jpg
+Feb 21, 2014 3:44:26 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :147-564-0227-026
+Feb 21, 2014 3:44:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610827363 : XXS
+Feb 21, 2014 3:44:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700611 : XS
+Feb 21, 2014 3:44:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700629 : S
+Feb 21, 2014 3:44:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700637 : M
+Feb 21, 2014 3:44:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700645 : L
+Feb 21, 2014 3:44:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610827312 : XL
+Feb 21, 2014 3:44:26 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1475640227026.jpg
+Feb 21, 2014 3:44:27 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1475640227026.jpg
+Feb 21, 2014 3:44:27 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :147-564-0227-062
+Feb 21, 2014 3:44:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610827304 : XXS
+Feb 21, 2014 3:44:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700653 : XS
+Feb 21, 2014 3:44:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700661 : S
+Feb 21, 2014 3:44:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700670 : M
+Feb 21, 2014 3:44:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610700688 : L
+Feb 21, 2014 3:44:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610827371 : XL
+Feb 21, 2014 3:44:28 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1475640227062.jpg
+Feb 21, 2014 3:44:28 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1475640227062.jpg
+Feb 27, 2014 1:32:09 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Feb 27, 2014 1:32:11 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :123-238-1183-012
+Feb 27, 2014 1:32:11 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608974604 : S
+Feb 27, 2014 1:32:11 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608974794 : M
+Feb 27, 2014 1:32:11 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608974621 : L
+Feb 27, 2014 1:32:11 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608974639 : XL
+Feb 27, 2014 1:32:11 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608974647 : XXL
+Feb 27, 2014 1:32:14 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1232381183012.jpg
+Feb 27, 2014 1:32:15 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1232381183012.jpg
+Feb 27, 2014 1:32:16 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :347-572-0160-051
+Feb 27, 2014 1:32:16 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922371 : XS
+Feb 27, 2014 1:32:16 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922380 : S
+Feb 27, 2014 1:32:16 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922398 : M
+Feb 27, 2014 1:32:16 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922401 : L
+Feb 27, 2014 1:32:17 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3475720160051.jpg
+Feb 27, 2014 1:32:17 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3475720160051.jpg
+Feb 27, 2014 1:32:18 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :347-572-0160-026
+Feb 27, 2014 1:32:18 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922339 : XS
+Feb 27, 2014 1:32:18 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922347 : S
+Feb 27, 2014 1:32:18 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922355 : M
+Feb 27, 2014 1:32:18 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922363 : L
+Feb 27, 2014 1:32:18 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3475720160026.jpg
+Feb 27, 2014 1:32:19 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3475720160026.jpg
+Feb 27, 2014 1:32:19 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :347-572-0160-030
+Feb 27, 2014 1:32:19 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922267 : XS
+Feb 27, 2014 1:32:19 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922275 : S
+Feb 27, 2014 1:32:19 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922283 : M
+Feb 27, 2014 1:32:19 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609922259 : L
+Feb 27, 2014 1:32:19 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3475720160030.jpg
+Feb 27, 2014 1:32:20 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3475720160030.jpg
+Feb 27, 2014 1:57:51 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Feb 27, 2014 1:57:52 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-232-0382-023
+Feb 27, 2014 1:57:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609830881 : S
+Feb 27, 2014 1:57:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609830899 : M
+Feb 27, 2014 1:57:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609830901 : L
+Feb 27, 2014 1:57:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609830910 : XL
+Feb 27, 2014 1:57:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609830928 : XXL
+Feb 27, 2014 1:57:54 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222320382023.jpg
+Feb 27, 2014 1:57:55 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222320382023.jpg
+Mar 01, 2014 12:49:35 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 01, 2014 12:49:37 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :114-157-0054-025
+Mar 01, 2014 12:49:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611120870 : S
+Mar 01, 2014 12:49:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611120888 : M
+Mar 01, 2014 12:49:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611120896 : L
+Mar 01, 2014 12:49:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611120765 : XL
+Mar 01, 2014 12:49:40 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1141570054025.jpg
+Mar 01, 2014 12:49:41 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1141570054025.jpg
+Mar 01, 2014 12:49:42 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-701-0217-023
+Mar 01, 2014 12:49:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054391 : S
+Mar 01, 2014 12:49:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054403 : M
+Mar 01, 2014 12:49:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054411 : L
+Mar 01, 2014 12:49:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054420 : XL
+Mar 01, 2014 12:49:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054438 : XXL
+Mar 01, 2014 12:49:42 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1217010217023.jpg
+Mar 01, 2014 12:49:43 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1217010217023.jpg
+Mar 01, 2014 12:50:18 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 01, 2014 12:50:20 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-701-0217-023
+Mar 01, 2014 12:50:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054391 : S
+Mar 01, 2014 12:50:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054403 : M
+Mar 01, 2014 12:50:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054411 : L
+Mar 01, 2014 12:50:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054420 : XL
+Mar 01, 2014 12:50:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611054438 : XXL
+Mar 01, 2014 12:50:47 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 01, 2014 12:51:44 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 01, 2014 12:51:45 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :null
+Mar 01, 2014 12:52:24 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 01, 2014 12:52:25 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :147-560-0157-023
+Mar 01, 2014 12:52:25 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611122111 : XS
+Mar 01, 2014 12:52:25 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611122189 : S
+Mar 01, 2014 12:52:25 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611122138 : M
+Mar 01, 2014 12:52:25 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611122146 : L
+Mar 01, 2014 12:52:27 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1475600157023.jpg
+Mar 01, 2014 12:52:28 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1475600157023.jpg
+Mar 01, 2014 12:52:29 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :145-531-0038-023
+Mar 01, 2014 12:52:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610783840 : XS
+Mar 01, 2014 12:52:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610783858 : S
+Mar 01, 2014 12:52:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610783866 : M
+Mar 01, 2014 12:52:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610783874 : L
+Mar 01, 2014 12:52:29 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1455310038023.jpg
+Mar 01, 2014 12:52:29 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1455310038023.jpg
+Mar 01, 2014 12:52:30 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-701-0213-023
+Mar 01, 2014 12:52:30 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610687680 : S
+Mar 01, 2014 12:52:30 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610687698 : M
+Mar 01, 2014 12:52:30 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610687701 : L
+Mar 01, 2014 12:52:30 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610687719 : XL
+Mar 01, 2014 12:52:30 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610687727 : XXL
+Mar 01, 2014 12:52:32 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1217010213023.jpg
+Mar 01, 2014 12:52:32 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1217010213023.jpg
+Mar 01, 2014 12:52:33 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0014-023
+Mar 01, 2014 12:52:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005151 : S
+Mar 01, 2014 12:52:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005169 : M
+Mar 01, 2014 12:52:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005177 : L
+Mar 01, 2014 12:52:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005185 : XL
+Mar 01, 2014 12:52:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005193 : XXL
+Mar 01, 2014 12:52:34 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222340014023.jpg
+Mar 01, 2014 12:52:34 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222340014023.jpg
+Mar 11, 2014 11:37:09 AM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 11, 2014 11:37:12 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0010-023
+Mar 11, 2014 11:37:12 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610753309 : S
+Mar 11, 2014 11:37:12 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610753317 : M
+Mar 11, 2014 11:37:12 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610753325 : L
+Mar 11, 2014 11:37:12 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610753333 : XL
+Mar 11, 2014 11:37:12 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610753392 : XXL
+Mar 11, 2014 11:37:14 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222340010023.jpg
+Mar 11, 2014 11:37:15 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222340010023.jpg
+Mar 18, 2014 12:14:10 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 18, 2014 12:14:12 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :123-238-1329-020
+Mar 18, 2014 12:14:12 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611141064 : S
+Mar 18, 2014 12:14:12 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611141072 : M
+Mar 18, 2014 12:14:12 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611141081 : L
+Mar 18, 2014 12:14:12 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611141099 : XL
+Mar 18, 2014 12:14:12 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611140871 : XXL
+Mar 18, 2014 12:14:15 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1232381329020.jpg
+Mar 18, 2014 12:14:16 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1232381329020.jpg
+Mar 18, 2014 12:14:17 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :123-238-1329-013
+Mar 18, 2014 12:14:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611140969 : S
+Mar 18, 2014 12:14:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611140977 : M
+Mar 18, 2014 12:14:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611140985 : L
+Mar 18, 2014 12:14:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611140993 : XL
+Mar 18, 2014 12:14:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611141005 : XXL
+Mar 18, 2014 12:14:19 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1232381329013.jpg
+Mar 18, 2014 12:14:19 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1232381329013.jpg
+Mar 18, 2014 12:14:20 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :123-238-1329-001
+Mar 18, 2014 12:14:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611048821 : S
+Mar 18, 2014 12:14:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611048839 : M
+Mar 18, 2014 12:14:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611048863 : L
+Mar 18, 2014 12:14:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611048855 : XL
+Mar 18, 2014 12:14:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611048847 : XXL
+Mar 18, 2014 12:14:21 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1232381329001.jpg
+Mar 18, 2014 12:14:21 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1232381329001.jpg
+Mar 18, 2014 12:14:22 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :123-238-1267-012
+Mar 18, 2014 12:14:22 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610748219 : S
+Mar 18, 2014 12:14:22 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610748227 : M
+Mar 18, 2014 12:14:22 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610748235 : L
+Mar 18, 2014 12:14:22 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610749246 : XL
+Mar 18, 2014 12:14:22 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610748201 : XXL
+Mar 18, 2014 12:14:23 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1232381267012.jpg
+Mar 18, 2014 12:14:23 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1232381267012.jpg
+Mar 18, 2014 12:14:24 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :124-236-0359-023
+Mar 18, 2014 12:14:24 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610392970 : S
+Mar 18, 2014 12:14:24 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610392961 : M
+Mar 18, 2014 12:14:24 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610392953 : L
+Mar 18, 2014 12:14:24 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610392996 : XL
+Mar 18, 2014 12:14:24 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610392988 : XXL
+Mar 18, 2014 12:14:24 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1242360359023.jpg
+Mar 18, 2014 12:14:25 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1242360359023.jpg
+Mar 18, 2014 12:14:26 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :124-236-0411-029
+Mar 18, 2014 12:14:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610868309 : S
+Mar 18, 2014 12:14:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610868317 : M
+Mar 18, 2014 12:14:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610868325 : L
+Mar 18, 2014 12:14:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610868333 : XL
+Mar 18, 2014 12:14:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867761 : XXL
+Mar 18, 2014 12:14:26 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1242360411029.jpg
+Mar 18, 2014 12:14:27 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1242360411029.jpg
+Mar 18, 2014 12:14:28 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :124-236-0411-023
+Mar 18, 2014 12:14:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867912 : S
+Mar 18, 2014 12:14:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867921 : M
+Mar 18, 2014 12:14:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867939 : L
+Mar 18, 2014 12:14:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867947 : XL
+Mar 18, 2014 12:14:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867904 : XXL
+Mar 18, 2014 12:14:29 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1242360411023.jpg
+Mar 18, 2014 12:14:30 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1242360411023.jpg
+Mar 18, 2014 12:14:31 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :124-236-0411-001
+Mar 18, 2014 12:14:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867752 : S
+Mar 18, 2014 12:14:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610868341 : M
+Mar 18, 2014 12:14:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867779 : L
+Mar 18, 2014 12:14:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867787 : XL
+Mar 18, 2014 12:14:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867795 : XXL
+Mar 18, 2014 12:14:32 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1242360411001.jpg
+Mar 18, 2014 12:14:33 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1242360411001.jpg
+Mar 18, 2014 12:14:35 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :134-355-0133-025
+Mar 18, 2014 12:14:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611030680 : XS
+Mar 18, 2014 12:14:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611030698 : S
+Mar 18, 2014 12:14:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611030727 : M
+Mar 18, 2014 12:14:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611030719 : L
+Mar 18, 2014 12:14:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611030701 : XL
+Mar 18, 2014 12:14:36 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1343550133025.jpg
+Mar 18, 2014 12:14:36 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1343550133025.jpg
+Mar 18, 2014 12:14:37 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :134-355-0145-023
+Mar 18, 2014 12:14:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880455 : XS
+Mar 18, 2014 12:14:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880439 : S
+Mar 18, 2014 12:14:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880447 : M
+Mar 18, 2014 12:14:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880471 : L
+Mar 18, 2014 12:14:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880463 : XL
+Mar 18, 2014 12:14:38 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1343550145023.jpg
+Mar 18, 2014 12:14:38 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1343550145023.jpg
+Mar 18, 2014 12:14:39 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :134-355-0145-022
+Mar 18, 2014 12:14:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880631 : XS
+Mar 18, 2014 12:14:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880640 : S
+Mar 18, 2014 12:14:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880658 : M
+Mar 18, 2014 12:14:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880666 : L
+Mar 18, 2014 12:14:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610880674 : XL
+Mar 18, 2014 12:14:40 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1343550145022.jpg
+Mar 18, 2014 12:14:40 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1343550145022.jpg
+Mar 18, 2014 12:14:41 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :134-355-0133-023
+Mar 18, 2014 12:14:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609667964 : XS
+Mar 18, 2014 12:14:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609668107 : S
+Mar 18, 2014 12:14:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609667981 : M
+Mar 18, 2014 12:14:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609667999 : L
+Mar 18, 2014 12:14:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609668001 : XL
+Mar 18, 2014 12:14:41 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1343550133023.jpg
+Mar 18, 2014 12:14:42 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1343550133023.jpg
+Mar 18, 2014 12:14:43 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :null
+Mar 18, 2014 12:17:01 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 18, 2014 12:17:02 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :null
+Mar 18, 2014 12:17:36 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 18, 2014 12:17:37 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :null
+Mar 18, 2014 11:35:45 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 18, 2014 11:35:47 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :347-572-0179-023
+Mar 18, 2014 11:35:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610730158 : XXS
+Mar 18, 2014 11:35:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610809253 : XS
+Mar 18, 2014 11:35:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610809261 : S
+Mar 18, 2014 11:35:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610809270 : M
+Mar 18, 2014 11:35:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610809288 : L
+Mar 18, 2014 11:35:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610730166 : XL
+Mar 18, 2014 11:35:49 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3475720179023.jpg
+Mar 18, 2014 11:35:50 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3475720179023.jpg
+Mar 18, 2014 11:35:51 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0016-023
+Mar 18, 2014 11:35:51 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080273 : S
+Mar 18, 2014 11:35:51 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080281 : M
+Mar 18, 2014 11:35:51 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080290 : L
+Mar 18, 2014 11:35:51 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080265 : XL
+Mar 18, 2014 11:35:52 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3222340016023.jpg
+Mar 18, 2014 11:35:53 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3222340016023.jpg
+Mar 18, 2014 11:35:53 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0016-026
+Mar 18, 2014 11:35:53 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080231 : S
+Mar 18, 2014 11:35:53 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080249 : M
+Mar 18, 2014 11:35:53 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080257 : L
+Mar 18, 2014 11:35:53 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080302 : XL
+Mar 18, 2014 11:35:55 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3222340016026.jpg
+Mar 18, 2014 11:35:55 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3222340016026.jpg
+Mar 18, 2014 11:35:55 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0008-023
+Mar 18, 2014 11:35:55 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750239 : XS
+Mar 18, 2014 11:35:55 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750247 : S
+Mar 18, 2014 11:35:55 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750255 : M
+Mar 18, 2014 11:35:55 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750263 : L
+Mar 18, 2014 11:35:55 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750271 : XL
+Mar 18, 2014 11:35:56 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3222340008023.jpg
+Mar 18, 2014 11:35:57 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3222340008023.jpg
+Mar 19, 2014 9:34:24 AM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 19, 2014 9:34:27 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :134-355-0114-012
+Mar 19, 2014 9:34:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608747436 : XS
+Mar 19, 2014 9:34:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608747444 : S
+Mar 19, 2014 9:34:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608747452 : M
+Mar 19, 2014 9:34:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608747461 : L
+Mar 19, 2014 9:34:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 608747479 : XL
+Mar 19, 2014 9:34:29 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1343550114012.jpg
+Mar 19, 2014 9:34:31 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1343550114012.jpg
+Mar 19, 2014 10:59:03 AM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 19, 2014 10:59:04 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0020-023
+Mar 19, 2014 10:59:04 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129583 : S
+Mar 19, 2014 10:59:04 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129591 : M
+Mar 19, 2014 10:59:04 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129604 : L
+Mar 19, 2014 10:59:04 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129487 : XL
+Mar 19, 2014 10:59:04 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129575 : XXL
+Mar 19, 2014 10:59:07 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222340020023.jpg
+Mar 19, 2014 10:59:08 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222340020023.jpg
+Mar 22, 2014 7:58:15 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 22, 2014 7:58:17 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0016-026
+Mar 22, 2014 7:58:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080231 : S
+Mar 22, 2014 7:58:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080249 : M
+Mar 22, 2014 7:58:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080257 : L
+Mar 22, 2014 7:58:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080302 : XL
+Mar 22, 2014 7:58:20 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0016-023
+Mar 22, 2014 7:58:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080273 : S
+Mar 22, 2014 7:58:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080281 : M
+Mar 22, 2014 7:58:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080290 : L
+Mar 22, 2014 7:58:20 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611080265 : XL
+Mar 22, 2014 7:58:23 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0018-015
+Mar 22, 2014 7:58:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610883197 : S
+Mar 22, 2014 7:58:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610883200 : M
+Mar 22, 2014 7:58:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610883218 : L
+Mar 22, 2014 7:58:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610883189 : XL
+Mar 22, 2014 7:58:24 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3222340018015.jpg
+Mar 22, 2014 7:58:25 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3222340018015.jpg
+Mar 22, 2014 7:58:26 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0008-023
+Mar 22, 2014 7:58:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750239 : XS
+Mar 22, 2014 7:58:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750247 : S
+Mar 22, 2014 7:58:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750255 : M
+Mar 22, 2014 7:58:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750263 : L
+Mar 22, 2014 7:58:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750271 : XL
+Mar 22, 2014 7:58:27 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0008-015
+Mar 22, 2014 7:58:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750183 : XS
+Mar 22, 2014 7:58:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750191 : S
+Mar 22, 2014 7:58:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750204 : M
+Mar 22, 2014 7:58:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750212 : L
+Mar 22, 2014 7:58:27 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750221 : XL
+Mar 22, 2014 7:58:28 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3222340008015.jpg
+Mar 22, 2014 7:58:28 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3222340008015.jpg
+Mar 22, 2014 7:58:29 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0008-026
+Mar 22, 2014 7:58:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750280 : XS
+Mar 22, 2014 7:58:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750298 : S
+Mar 22, 2014 7:58:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750301 : M
+Mar 22, 2014 7:58:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750319 : L
+Mar 22, 2014 7:58:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750141 : XL
+Mar 22, 2014 7:58:30 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3222340008026.jpg
+Mar 22, 2014 7:58:30 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3222340008026.jpg
+Mar 22, 2014 7:58:31 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :322-234-0008-030
+Mar 22, 2014 7:58:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750132 : XS
+Mar 22, 2014 7:58:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750327 : S
+Mar 22, 2014 7:58:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750159 : M
+Mar 22, 2014 7:58:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750167 : L
+Mar 22, 2014 7:58:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610750175 : XL
+Mar 22, 2014 7:58:32 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3222340008030.jpg
+Mar 22, 2014 7:58:32 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3222340008030.jpg
+Mar 22, 2014 7:58:33 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :335-415-0264-026
+Mar 22, 2014 7:58:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580866 : XS
+Mar 22, 2014 7:58:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580874 : S
+Mar 22, 2014 7:58:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580882 : M
+Mar 22, 2014 7:58:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580891 : L
+Mar 22, 2014 7:58:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580903 : XL
+Mar 22, 2014 7:58:34 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3354150264026.jpg
+Mar 22, 2014 7:58:35 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3354150264026.jpg
+Mar 22, 2014 7:58:35 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :335-415-0264-023
+Mar 22, 2014 7:58:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580911 : XS
+Mar 22, 2014 7:58:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580920 : S
+Mar 22, 2014 7:58:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580938 : M
+Mar 22, 2014 7:58:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580946 : L
+Mar 22, 2014 7:58:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610580778 : XL
+Mar 22, 2014 7:58:37 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3354150264023.jpg
+Mar 22, 2014 7:58:37 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3354150264023.jpg
+Mar 25, 2014 10:39:17 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 25, 2014 10:39:19 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0020-015
+Mar 25, 2014 10:39:19 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129479 : S
+Mar 25, 2014 10:39:19 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129612 : M
+Mar 25, 2014 10:39:19 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129495 : L
+Mar 25, 2014 10:39:19 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129508 : XL
+Mar 25, 2014 10:39:19 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129516 : XXL
+Mar 25, 2014 10:39:21 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222340020015.jpg
+Mar 25, 2014 10:39:23 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222340020015.jpg
+Mar 25, 2014 10:39:24 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0020-023
+Mar 25, 2014 10:39:24 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129583 : S
+Mar 25, 2014 10:39:24 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129591 : M
+Mar 25, 2014 10:39:24 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129604 : L
+Mar 25, 2014 10:39:24 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129487 : XL
+Mar 25, 2014 10:39:25 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129575 : XXL
+Mar 25, 2014 10:39:26 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0020-026
+Mar 25, 2014 10:39:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129541 : S
+Mar 25, 2014 10:39:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129559 : M
+Mar 25, 2014 10:39:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129567 : L
+Mar 25, 2014 10:39:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129524 : XL
+Mar 25, 2014 10:39:26 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611129532 : XXL
+Mar 25, 2014 10:39:28 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222340020026.jpg
+Mar 25, 2014 10:39:28 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222340020026.jpg
+Mar 25, 2014 10:41:15 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Mar 25, 2014 10:41:17 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0023-030
+Mar 25, 2014 10:41:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696341 : S
+Mar 25, 2014 10:41:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696359 : M
+Mar 25, 2014 10:41:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696367 : L
+Mar 25, 2014 10:41:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696375 : XL
+Mar 25, 2014 10:41:17 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696383 : XXL
+Mar 25, 2014 10:41:19 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222340023030.jpg
+Mar 25, 2014 10:41:20 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222340023030.jpg
+Apr 03, 2014 2:06:21 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Apr 03, 2014 2:06:23 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0026-023
+Apr 03, 2014 2:06:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611496906 : S
+Apr 03, 2014 2:06:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611496914 : M
+Apr 03, 2014 2:06:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611496922 : L
+Apr 03, 2014 2:06:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611496931 : XL
+Apr 03, 2014 2:06:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611496990 : XXL
+Apr 03, 2014 2:06:25 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222340026023.jpg
+Apr 03, 2014 2:06:27 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222340026023.jpg
+Apr 06, 2014 5:08:28 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Apr 06, 2014 5:08:33 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :123-238-1347-011
+Apr 06, 2014 5:08:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611464411 : S
+Apr 06, 2014 5:08:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611464429 : M
+Apr 06, 2014 5:08:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611464437 : L
+Apr 06, 2014 5:08:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611464390 : XL
+Apr 06, 2014 5:08:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611464402 : XXL
+Apr 06, 2014 5:08:35 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1232381347011.jpg
+Apr 06, 2014 5:08:37 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1232381347011.jpg
+Apr 06, 2014 5:08:39 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :124-236-0411-029
+Apr 06, 2014 5:08:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610868309 : S
+Apr 06, 2014 5:08:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610868317 : M
+Apr 06, 2014 5:08:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610868325 : L
+Apr 06, 2014 5:08:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610868333 : XL
+Apr 06, 2014 5:08:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610867761 : XXL
+Apr 06, 2014 5:08:41 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-701-0210-012
+Apr 06, 2014 5:08:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534595 : S
+Apr 06, 2014 5:08:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534739 : M
+Apr 06, 2014 5:08:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534616 : L
+Apr 06, 2014 5:08:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534624 : XL
+Apr 06, 2014 5:08:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534632 : XXL
+Apr 06, 2014 5:08:43 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-701-0210-023
+Apr 06, 2014 5:08:43 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534691 : S
+Apr 06, 2014 5:08:43 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534704 : M
+Apr 06, 2014 5:08:43 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534712 : L
+Apr 06, 2014 5:08:43 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534721 : XL
+Apr 06, 2014 5:08:43 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534608 : XXL
+Apr 06, 2014 5:08:45 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-701-0210-026
+Apr 06, 2014 5:08:45 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534641 : S
+Apr 06, 2014 5:08:45 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534659 : M
+Apr 06, 2014 5:08:45 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534667 : L
+Apr 06, 2014 5:08:45 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534675 : XL
+Apr 06, 2014 5:08:45 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534683 : XXL
+Apr 06, 2014 5:08:46 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1217010210026.jpg
+Apr 06, 2014 5:08:47 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1217010210026.jpg
+Apr 06, 2014 5:08:47 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-701-0210-001
+Apr 06, 2014 5:08:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534747 : S
+Apr 06, 2014 5:08:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534755 : M
+Apr 06, 2014 5:08:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534780 : L
+Apr 06, 2014 5:08:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534771 : XL
+Apr 06, 2014 5:08:47 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610534763 : XXL
+Apr 06, 2014 5:08:48 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1217010210001.jpg
+Apr 06, 2014 5:08:49 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1217010210001.jpg
+Apr 06, 2014 5:08:49 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0023-030
+Apr 06, 2014 5:08:49 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696341 : S
+Apr 06, 2014 5:08:49 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696359 : M
+Apr 06, 2014 5:08:49 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696367 : L
+Apr 06, 2014 5:08:49 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696375 : XL
+Apr 06, 2014 5:08:49 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610696383 : XXL
+Apr 06, 2014 5:08:50 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :154-541-0288-060
+Apr 06, 2014 5:08:50 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609741546 : 1SIZE
+Apr 06, 2014 5:08:50 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1545410288060.jpg
+Apr 06, 2014 5:08:51 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1545410288060.jpg
+Apr 06, 2014 5:08:52 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :125-168-1328-021
+Apr 06, 2014 5:08:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610463336 : S
+Apr 06, 2014 5:08:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610463344 : M
+Apr 06, 2014 5:08:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610463379 : L
+Apr 06, 2014 5:08:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610463361 : XL
+Apr 06, 2014 5:08:52 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610463352 : XXL
+Apr 06, 2014 5:08:52 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1251681328021.jpg
+Apr 06, 2014 5:08:52 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1251681328021.jpg
+Apr 07, 2014 9:52:28 AM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Apr 07, 2014 9:52:32 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :133-350-0267-020
+Apr 07, 2014 9:52:32 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610761245 : XS
+Apr 07, 2014 9:52:32 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610757238 : S
+Apr 07, 2014 9:52:32 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610757220 : M
+Apr 07, 2014 9:52:32 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610757211 : L
+Apr 07, 2014 9:52:32 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610761253 : XL
+Apr 07, 2014 9:52:34 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1333500267020.jpg
+Apr 07, 2014 9:52:35 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1333500267020.jpg
+Apr 07, 2014 9:52:37 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :133-350-0266-019
+Apr 07, 2014 9:52:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610757191 : XS
+Apr 07, 2014 9:52:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610757182 : S
+Apr 07, 2014 9:52:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610757174 : M
+Apr 07, 2014 9:52:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610757166 : L
+Apr 07, 2014 9:52:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610757158 : XL
+Apr 07, 2014 9:52:38 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1333500266019.jpg
+Apr 07, 2014 9:52:39 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1333500266019.jpg
+Apr 07, 2014 9:52:40 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :133-350-0269-050
+Apr 07, 2014 9:52:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610761341 : XS
+Apr 07, 2014 9:52:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610761350 : S
+Apr 07, 2014 9:52:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610761368 : M
+Apr 07, 2014 9:52:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610761376 : L
+Apr 07, 2014 9:52:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610761333 : XL
+Apr 07, 2014 9:52:41 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1333500269050.jpg
+Apr 07, 2014 9:52:41 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1333500269050.jpg
+Apr 10, 2014 8:29:21 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Apr 10, 2014 8:29:23 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-234-0027-023
+Apr 10, 2014 8:29:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611307044 : S
+Apr 10, 2014 8:29:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611307183 : M
+Apr 10, 2014 8:29:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611307061 : L
+Apr 10, 2014 8:29:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611307079 : XL
+Apr 10, 2014 8:29:23 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611307087 : XXL
+Apr 10, 2014 8:29:26 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222340027023.jpg
+Apr 10, 2014 8:29:27 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222340027023.jpg
+Apr 10, 2014 8:29:28 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :122-232-0437-023
+Apr 10, 2014 8:29:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611472285 : S
+Apr 10, 2014 8:29:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611472293 : M
+Apr 10, 2014 8:29:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611472306 : L
+Apr 10, 2014 8:29:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611472314 : XL
+Apr 10, 2014 8:29:28 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611472373 : XXL
+Apr 10, 2014 8:29:29 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1222320437023.jpg
+Apr 10, 2014 8:29:30 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1222320437023.jpg
+Apr 10, 2014 8:29:31 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :123-238-1323-023
+Apr 10, 2014 8:29:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611369595 : S
+Apr 10, 2014 8:29:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611369608 : M
+Apr 10, 2014 8:29:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611369616 : L
+Apr 10, 2014 8:29:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611369624 : XL
+Apr 10, 2014 8:29:31 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611369587 : XXL
+Apr 10, 2014 8:29:32 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1232381323023.jpg
+Apr 10, 2014 8:29:33 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1232381323023.jpg
+Apr 10, 2014 8:29:33 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :135-815-0044-023
+Apr 10, 2014 8:29:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610541517 : XS
+Apr 10, 2014 8:29:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610541525 : S
+Apr 10, 2014 8:29:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610541533 : M
+Apr 10, 2014 8:29:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610541541 : L
+Apr 10, 2014 8:29:33 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610541550 : XL
+Apr 10, 2014 8:29:35 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1358150044023.jpg
+Apr 10, 2014 8:29:35 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1358150044023.jpg
+Apr 10, 2014 8:29:35 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-528-0429-023
+Apr 10, 2014 8:29:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610896174 : XS
+Apr 10, 2014 8:29:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610896182 : S
+Apr 10, 2014 8:29:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610896191 : M
+Apr 10, 2014 8:29:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610896060 : L
+Apr 10, 2014 8:29:36 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525280429023.jpg
+Apr 10, 2014 8:29:37 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525280429023.jpg
+Apr 10, 2014 8:29:37 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :124-236-0371-023
+Apr 10, 2014 8:29:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610465999 : S
+Apr 10, 2014 8:29:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610466001 : M
+Apr 10, 2014 8:29:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610466019 : L
+Apr 10, 2014 8:29:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610466027 : XL
+Apr 10, 2014 8:29:37 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610466035 : XXL
+Apr 10, 2014 8:29:38 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1242360371023.jpg
+Apr 10, 2014 8:29:38 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1242360371023.jpg
+Apr 10, 2014 8:29:39 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :145-532-0067-030
+Apr 10, 2014 8:29:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611552488 : XS
+Apr 10, 2014 8:29:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611552496 : S
+Apr 10, 2014 8:29:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611552509 : M
+Apr 10, 2014 8:29:39 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611552470 : L
+Apr 10, 2014 8:29:40 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1455320067030.jpg
+Apr 10, 2014 8:29:40 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1455320067030.jpg
+Apr 10, 2014 8:29:41 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :134-355-0144-023
+Apr 10, 2014 8:29:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610674002 : XS
+Apr 10, 2014 8:29:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610674011 : S
+Apr 10, 2014 8:29:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610674029 : M
+Apr 10, 2014 8:29:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610674037 : L
+Apr 10, 2014 8:29:41 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610674045 : XL
+Apr 10, 2014 8:29:42 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1343550144023.jpg
+Apr 10, 2014 8:29:42 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1343550144023.jpg
+Apr 10, 2014 8:29:42 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :134-355-0144-012
+Apr 10, 2014 8:29:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610673958 : XS
+Apr 10, 2014 8:29:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610674096 : S
+Apr 10, 2014 8:29:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610673974 : M
+Apr 10, 2014 8:29:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610673982 : L
+Apr 10, 2014 8:29:42 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610673991 : XL
+Apr 10, 2014 8:29:43 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1343550144012.jpg
+Apr 10, 2014 8:29:43 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1343550144012.jpg
+Apr 10, 2014 8:29:44 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-528-0420-023
+Apr 10, 2014 8:29:44 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610707441 : XS
+Apr 10, 2014 8:29:44 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610707450 : S
+Apr 10, 2014 8:29:44 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610707468 : M
+Apr 10, 2014 8:29:44 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610707513 : L
+Apr 10, 2014 8:29:44 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525280420023.jpg
+Apr 10, 2014 8:29:45 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525280420023.jpg
+Apr 18, 2014 10:49:16 AM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Apr 18, 2014 10:49:18 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :159-591-0816-025
+Apr 18, 2014 10:49:18 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611785054 : XS
+Apr 18, 2014 10:49:18 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611785089 : S
+Apr 18, 2014 10:49:18 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611785071 : M
+Apr 18, 2014 10:49:18 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611785062 : L
+Apr 18, 2014 10:49:21 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1595910816025.jpg
+Apr 18, 2014 10:49:22 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1595910816025.jpg
+Apr 18, 2014 10:49:23 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :159-591-0753-025
+Apr 18, 2014 10:49:23 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611407707 : XS
+Apr 18, 2014 10:49:23 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611407731 : S
+Apr 18, 2014 10:49:23 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611407723 : M
+Apr 18, 2014 10:49:23 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611407715 : L
+Apr 18, 2014 10:49:25 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1595910753025.jpg
+Apr 18, 2014 10:49:25 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1595910753025.jpg
+Apr 18, 2014 10:49:26 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :159-591-0812-025
+Apr 18, 2014 10:49:26 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611773070 : XS
+Apr 18, 2014 10:49:26 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611773109 : S
+Apr 18, 2014 10:49:26 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611773096 : M
+Apr 18, 2014 10:49:26 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611773088 : L
+Apr 18, 2014 10:49:27 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1595910812025.jpg
+Apr 18, 2014 10:49:27 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1595910812025.jpg
+Apr 18, 2014 10:49:27 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :159-591-0753-025
+Apr 18, 2014 10:49:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611407707 : XS
+Apr 18, 2014 10:49:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611407731 : S
+Apr 18, 2014 10:49:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611407723 : M
+Apr 18, 2014 10:49:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611407715 : L
+Apr 18, 2014 10:49:29 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :159-591-0761-012
+Apr 18, 2014 10:49:29 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611386344 : XS
+Apr 18, 2014 10:49:29 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611386352 : S
+Apr 18, 2014 10:49:29 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611386361 : M
+Apr 18, 2014 10:49:29 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611386336 : L
+Apr 18, 2014 10:49:30 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1595910761012.jpg
+Apr 18, 2014 10:49:30 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1595910761012.jpg
+Apr 18, 2014 10:49:31 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :159-591-0761-023
+Apr 18, 2014 10:49:31 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611386301 : XS
+Apr 18, 2014 10:49:31 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611386310 : S
+Apr 18, 2014 10:49:31 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611386328 : M
+Apr 18, 2014 10:49:31 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611386379 : L
+Apr 18, 2014 10:49:32 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1595910761023.jpg
+Apr 18, 2014 10:49:32 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1595910761023.jpg
+Apr 18, 2014 10:49:33 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :159-591-0672-001
+Apr 18, 2014 10:49:33 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611616605 : XS
+Apr 18, 2014 10:49:33 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611616630 : S
+Apr 18, 2014 10:49:33 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611616621 : M
+Apr 18, 2014 10:49:33 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611616613 : L
+Apr 18, 2014 10:49:34 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1595910672001.jpg
+Apr 18, 2014 10:49:35 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1595910672001.jpg
+Apr 18, 2014 10:49:36 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :132-328-0525-035
+Apr 18, 2014 10:49:36 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611600072 : S
+Apr 18, 2014 10:49:36 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611600081 : M
+Apr 18, 2014 10:49:36 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611600099 : L
+Apr 18, 2014 10:49:36 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611600101 : XL
+Apr 18, 2014 10:49:38 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1323280525035.jpg
+Apr 18, 2014 10:49:38 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1323280525035.jpg
+Apr 18, 2014 10:49:38 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-224-0449-023
+Apr 18, 2014 10:49:38 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611024474 : S
+Apr 18, 2014 10:49:38 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611024482 : M
+Apr 18, 2014 10:49:38 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611024491 : L
+Apr 18, 2014 10:49:38 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611024503 : XL
+Apr 18, 2014 10:49:38 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611023236 : XXL
+Apr 18, 2014 10:49:39 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1212240449023.jpg
+Apr 18, 2014 10:49:40 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1212240449023.jpg
+Apr 18, 2014 10:49:40 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-224-0441-025
+Apr 18, 2014 10:49:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610768631 : S
+Apr 18, 2014 10:49:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610768640 : M
+Apr 18, 2014 10:49:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610768658 : L
+Apr 18, 2014 10:49:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610768666 : XL
+Apr 18, 2014 10:49:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610768623 : XXL
+Apr 18, 2014 10:49:42 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1212240441025.jpg
+Apr 18, 2014 10:49:42 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1212240441025.jpg
+Apr 18, 2014 10:49:43 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-224-0435-026
+Apr 18, 2014 10:49:43 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610625526 : S
+Apr 18, 2014 10:49:43 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610625534 : M
+Apr 18, 2014 10:49:43 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610625542 : L
+Apr 18, 2014 10:49:43 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610625551 : XL
+Apr 18, 2014 10:49:43 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610625083 : XXL
+Apr 18, 2014 10:50:16 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1212240435026.jpg
+Apr 18, 2014 10:50:17 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1212240435026.jpg
+Apr 18, 2014 10:50:18 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-514-0244-011
+Apr 18, 2014 10:50:18 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543792 : XS
+Apr 18, 2014 10:50:18 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543805 : S
+Apr 18, 2014 10:50:18 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543813 : M
+Apr 18, 2014 10:50:18 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543821 : L
+Apr 18, 2014 10:50:20 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525140244011.jpg
+Apr 18, 2014 10:50:20 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525140244011.jpg
+Apr 18, 2014 10:50:21 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-514-0244-012
+Apr 18, 2014 10:50:21 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543830 : XS
+Apr 18, 2014 10:50:21 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543848 : S
+Apr 18, 2014 10:50:21 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543856 : M
+Apr 18, 2014 10:50:21 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543864 : L
+Apr 18, 2014 10:50:22 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525140244012.jpg
+Apr 18, 2014 10:50:23 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525140244012.jpg
+Apr 18, 2014 10:50:24 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-514-0244-023
+Apr 18, 2014 10:50:24 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543872 : XS
+Apr 18, 2014 10:50:24 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543881 : S
+Apr 18, 2014 10:50:24 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543899 : M
+Apr 18, 2014 10:50:24 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543901 : L
+Apr 18, 2014 10:50:25 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525140244023.jpg
+Apr 18, 2014 10:50:25 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525140244023.jpg
+Apr 18, 2014 10:50:26 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :152-514-0244-053
+Apr 18, 2014 10:50:26 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543910 : XS
+Apr 18, 2014 10:50:26 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543928 : S
+Apr 18, 2014 10:50:26 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543936 : M
+Apr 18, 2014 10:50:26 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611543768 : L
+Apr 18, 2014 10:50:26 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1525140244053.jpg
+Apr 18, 2014 10:50:27 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1525140244053.jpg
+Apr 18, 2014 10:50:27 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :149-565-0197-023
+Apr 18, 2014 10:50:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993935 : 0
+Apr 18, 2014 10:50:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993943 : 2
+Apr 18, 2014 10:50:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993951 : 4
+Apr 18, 2014 10:50:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993994 : 6
+Apr 18, 2014 10:50:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993978 : 8
+Apr 18, 2014 10:50:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993986 : 10
+Apr 18, 2014 10:50:27 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993960 : 00
+Apr 18, 2014 10:50:28 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1495650197023.jpg
+Apr 18, 2014 10:50:29 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1495650197023.jpg
+Apr 18, 2014 10:50:30 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :149-565-0196-023
+Apr 18, 2014 10:50:30 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993855 : 0
+Apr 18, 2014 10:50:30 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993863 : 2
+Apr 18, 2014 10:50:30 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993871 : 4
+Apr 18, 2014 10:50:30 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993919 : 6
+Apr 18, 2014 10:50:30 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993898 : 8
+Apr 18, 2014 10:50:30 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993901 : 10
+Apr 18, 2014 10:50:30 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610993880 : 00
+Apr 18, 2014 10:50:31 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1495650196023.jpg
+Apr 18, 2014 10:50:31 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1495650196023.jpg
+Apr 18, 2014 10:50:33 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :156-563-0002-023
+Apr 18, 2014 10:50:33 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005572 : XS
+Apr 18, 2014 10:50:33 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005601 : S
+Apr 18, 2014 10:50:33 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005599 : M
+Apr 18, 2014 10:50:33 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005581 : L
+Apr 18, 2014 10:50:34 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1565630002023.jpg
+Apr 18, 2014 10:50:34 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1565630002023.jpg
+Apr 18, 2014 10:50:35 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :123-238-1364-023
+Apr 18, 2014 10:50:35 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611616752 : S
+Apr 18, 2014 10:50:35 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611616761 : M
+Apr 18, 2014 10:50:35 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611616787 : L
+Apr 18, 2014 10:50:35 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611616779 : XL
+Apr 18, 2014 10:50:35 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611616795 : XXL
+Apr 18, 2014 10:50:36 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1232381364023.jpg
+Apr 18, 2014 10:50:37 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1232381364023.jpg
+Apr 18, 2014 10:50:37 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :112-147-0209-023
+Apr 18, 2014 10:50:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610425719 : S
+Apr 18, 2014 10:50:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610425701 : M
+Apr 18, 2014 10:50:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610425698 : L
+Apr 18, 2014 10:50:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610425727 : XL
+Apr 18, 2014 10:50:39 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1121470209023.jpg
+Apr 18, 2014 10:50:39 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1121470209023.jpg
+Apr 18, 2014 10:50:40 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :112-147-0211-040
+Apr 18, 2014 10:50:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610425250 : S
+Apr 18, 2014 10:50:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610425284 : M
+Apr 18, 2014 10:50:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610425276 : L
+Apr 18, 2014 10:50:40 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610425268 : XL
+Apr 18, 2014 10:50:41 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1121470211040.jpg
+Apr 18, 2014 10:50:41 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1121470211040.jpg
+Apr 18, 2014 11:23:26 AM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Apr 18, 2014 11:23:28 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-701-0224-023
+Apr 18, 2014 11:23:28 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611503344 : S
+Apr 18, 2014 11:23:28 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611503352 : M
+Apr 18, 2014 11:23:28 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611503361 : L
+Apr 18, 2014 11:23:28 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611503379 : XL
+Apr 18, 2014 11:23:28 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611503387 : XXL
+Apr 18, 2014 11:23:31 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1217010224023.jpg
+Apr 18, 2014 11:23:33 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1217010224023.jpg
+Apr 18, 2014 11:23:34 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :121-224-0463-012
+Apr 18, 2014 11:23:34 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611358415 : S
+Apr 18, 2014 11:23:34 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611358423 : M
+Apr 18, 2014 11:23:34 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611358431 : L
+Apr 18, 2014 11:23:34 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611358440 : XL
+Apr 18, 2014 11:23:34 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611358407 : XXL
+Apr 18, 2014 11:23:36 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1212240463012.jpg
+Apr 18, 2014 11:23:36 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1212240463012.jpg
+Apr 18, 2014 11:23:37 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :112-178-0087-026
+Apr 18, 2014 11:23:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611401006 : S/M
+Apr 18, 2014 11:23:37 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611401057 : L/XL
+Apr 18, 2014 11:23:38 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1121780087026.jpg
+Apr 18, 2014 11:23:39 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1121780087026.jpg
+Apr 18, 2014 11:23:39 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :112-178-0078-026
+Apr 18, 2014 11:23:39 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609868192 : S/M
+Apr 18, 2014 11:23:39 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 609868150 : L/XL
+Apr 18, 2014 11:23:40 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1121780078026.jpg
+Apr 18, 2014 11:23:41 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1121780078026.jpg
+Apr 18, 2014 11:23:41 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :156-563-0004-001
+Apr 18, 2014 11:23:41 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005679 : XS
+Apr 18, 2014 11:23:41 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005708 : S
+Apr 18, 2014 11:23:41 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005695 : M
+Apr 18, 2014 11:23:41 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611005687 : L
+Apr 18, 2014 11:23:42 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1565630004001.jpg
+Apr 18, 2014 11:23:42 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1565630004001.jpg
+Apr 18, 2014 11:23:43 AM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :156-425-0149-023
+Apr 18, 2014 11:23:43 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611251757 : XS
+Apr 18, 2014 11:23:43 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611251781 : S
+Apr 18, 2014 11:23:43 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611251773 : M
+Apr 18, 2014 11:23:43 AM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611251765 : L
+Apr 18, 2014 11:23:44 AM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1564250149023.jpg
+Apr 18, 2014 11:23:44 AM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1564250149023.jpg
+Apr 18, 2014 11:11:27 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Apr 18, 2014 11:11:29 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :147-564-0240-023
+Apr 18, 2014 11:11:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611391784 : XS
+Apr 18, 2014 11:11:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611391792 : S
+Apr 18, 2014 11:11:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611391805 : M
+Apr 18, 2014 11:11:29 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611391750 : L
+Apr 18, 2014 11:11:30 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1475640240023.jpg
+Apr 18, 2014 11:11:31 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1475640240023.jpg
+Apr 18, 2014 11:11:32 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :347-572-0183-023
+Apr 18, 2014 11:11:32 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611547363 : XS
+Apr 18, 2014 11:11:32 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611547371 : S
+Apr 18, 2014 11:11:32 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611547380 : M
+Apr 18, 2014 11:11:32 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611547339 : L
+Apr 18, 2014 11:11:34 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3475720183023.jpg
+Apr 18, 2014 11:11:34 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3475720183023.jpg
+Apr 18, 2014 11:11:35 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :347-572-0186-023
+Apr 18, 2014 11:11:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611552955 : XS
+Apr 18, 2014 11:11:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611552963 : S
+Apr 18, 2014 11:11:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611552971 : M
+Apr 18, 2014 11:11:35 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611552980 : L
+Apr 18, 2014 11:11:36 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 3475720186023.jpg
+Apr 18, 2014 11:11:36 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 3475720186023.jpg
+Apr 18, 2014 11:11:36 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :112-147-0219-013
+Apr 18, 2014 11:11:36 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610906109 : S
+Apr 18, 2014 11:11:36 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610906117 : M
+Apr 18, 2014 11:11:36 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610906133 : L
+Apr 18, 2014 11:11:36 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 610906125 : XL
+Apr 18, 2014 11:11:37 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1121470219013.jpg
+Apr 18, 2014 11:11:37 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1121470219013.jpg
+Apr 18, 2014 11:11:38 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :112-147-0233-030
+Apr 18, 2014 11:11:38 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611206155 : S
+Apr 18, 2014 11:11:38 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611206163 : M
+Apr 18, 2014 11:11:38 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611206171 : L
+Apr 18, 2014 11:11:38 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611206180 : XL
+Apr 18, 2014 11:11:39 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1121470233030.jpg
+Apr 18, 2014 11:11:39 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1121470233030.jpg
+Apr 19, 2014 4:03:55 PM com.app.afapp.addnewproduct.AddNewProduct main
+INFO: Begin Add New Product:
+Apr 19, 2014 4:03:57 PM com.app.afapp.addnewproduct.getProduct getProduct
+FINEST: Longsku :125-125-0123-020
+Apr 19, 2014 4:03:57 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611100431 : S
+Apr 19, 2014 4:03:57 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611100449 : M
+Apr 19, 2014 4:03:57 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611100473 : L
+Apr 19, 2014 4:03:57 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611100465 : XL
+Apr 19, 2014 4:03:57 PM com.app.afapp.addnewproduct.getProduct getSizes
+FINEST: 611100457 : XXL
+Apr 19, 2014 4:03:58 PM com.app.afapp.addnewproduct.readHTML saveImage
+FINEST: Save new image : 1251250123020.jpg
+Apr 19, 2014 4:04:00 PM com.app.afapp.addnewproduct.readHTML uploadImg
+FINEST: UPLOAD image to ftp : 1251250123020.jpg

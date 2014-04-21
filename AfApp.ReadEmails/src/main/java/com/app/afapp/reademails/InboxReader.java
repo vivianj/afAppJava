@@ -23,6 +23,7 @@ import javax.mail.internet.MimeMultipart;
 import javax.mail.search.FlagTerm;
 import java.util.ArrayList;
 import java.math.BigInteger;
+import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -34,13 +35,18 @@ public class InboxReader {
     static public Db db = new Db();
      static int userId = 0;
     
-    public static void readEmail() throws ClassNotFoundException, SQLException {
+    public  static void readEmail() throws ClassNotFoundException, SQLException {
 
         String host = "imap.gmail.com";
         String protocol = "imaps";
+        
+        //InputStream in = getClass().getResourceAsStream("email.properties");
+        //Scanner scanner = new Scanner(in);
+
         String username = "kangyihong001@gmail.com";
         String password = "831218xx";
-        String folder = "Inbox";
+        String folder = "inbox";
+        
         Flags flag = new Flags(Flags.Flag.ANSWERED);
         String af_confirmation_regex = ".*?abercrombie & fitch order #.*\\d+ confirmation.*";
         String af_ship_regex = ".*?abercrombie & fitch order #.*\\d+ has shipped.*";

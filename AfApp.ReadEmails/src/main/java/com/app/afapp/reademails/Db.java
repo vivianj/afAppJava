@@ -30,7 +30,7 @@ public class Db {
     public Statement statement= null;
     public String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     public String username = "b04a669d1b1d5a",password = "e60882cf";
-    static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappa2hwggg1ar0";
+    static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappa2hwggg1ar0_";
     String dbtime;
     
      public  Db(){
@@ -305,7 +305,14 @@ public class Db {
             ResultSet rs = st.executeQuery(sql0);
             
             if (rs.next()) {
-                      return;
+                
+                String sql1 = "UPDATE order_info SET subtotal=" + subtotal + ", tax=" + tax + ", total="+total+", order_status_id="+orderStatusId 
+                        + " WHERE order_id =" + order; 
+                
+                System.out.println("Update the order: " + order +"; " + sql1 );
+                PreparedStatement stmt = (PreparedStatement) con.prepareStatement(sql1);
+                stmt.execute();
+                return;
                }   
             
             String sql = "INSERT INTO order_info(order_id, date, subtotal, tax, ship_fee, total, order_status_id, user_id) VALUES( ?, ?, ?, ?, ?, ?, ?,?)";
@@ -372,7 +379,7 @@ public class Db {
                 
                 stmt.execute();
            }catch(SQLException ex){
-            Logger.getLogger(ReadHTML.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(ReadEmails.class.getName()).log(Level.SEVERE, null, ex);
            }    
         }
     
@@ -405,13 +412,14 @@ public class Db {
                 stmt.execute();
               }
            }catch(SQLException ex){
-            Logger.getLogger(ReadHTML.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(ReadEmails.class.getName()).log(Level.SEVERE, null, ex);
            }    
         }
        
      public int saveUser(String email){
          try{    
-                if(email.trim().isEmpty()){
+                email = email.trim();
+                if(email.isEmpty()){
                     return 2;
                 }
                 
@@ -427,13 +435,12 @@ public class Db {
                 PreparedStatement stmt = (PreparedStatement) con.prepareStatement(sql);
                 stmt.setString(1, email);
                 stmt.execute();
-               
-                
+                        
            }catch(SQLException ex){
-            Logger.getLogger(ReadHTML.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(ReadEmails.class.getName()).log(Level.SEVERE, null, ex);
            } 
          
-         return 2;
+            return 2;
      }
        
      public void updateOrderUserId(BigInteger order_id, int user_id){
@@ -488,7 +495,7 @@ public class Db {
                 stmt.execute();
                  
            }catch(SQLException ex){
-            Logger.getLogger(ReadHTML.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(ReadEmails.class.getName()).log(Level.SEVERE, null, ex);
            }   
        }
 }

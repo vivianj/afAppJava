@@ -96,7 +96,7 @@ public class getProduct {
         String price = getValue(root, pricePath);
         String pricePromote = getValue(root, pricePromotePath);
 
-        if (!pricePromote.isEmpty()) {
+        if (pricePromote !=null && !pricePromote.isEmpty() ) {
             price = pricePromote;
         }
 

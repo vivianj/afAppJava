@@ -112,9 +112,9 @@ public class saveData {
                 date = currentOrderdate; 
             } else if (db.getOrderStatusByOrderId(orderId) == 1) {
                 db.deleteOrderDetailByOrderId(orderId);
+            }else{
+                  return;
             }
-
-            db.deleteOrderInfoByOrderId(orderId);
         }  
 
         db.saveOrderInfo(orderId, date, subtotal, tax, ship_fee, total, orderStatusId, userId);
