@@ -30,7 +30,7 @@ public class Db {
     public Statement statement= null;
     public String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     public String username = "b04a669d1b1d5a",password = "e60882cf";
-    static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappa2hwggg1ar0_";
+    static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappa2hwggg1ar0";
     String dbtime;
     
      public  Db(){

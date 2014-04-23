@@ -22,7 +22,7 @@ public class ReadEmails {
          int limit = 100000;
          Logger logger = Logger.getLogger("readEmail");
          
-         Handler fh = new FileHandler("/Users/admin/Documents/afAppJava/readEmails.log", limit, 1, true);
+         Handler fh = new FileHandler("/opt/afAppJava/readEmails.log", limit, 1, true);
          logger.addHandler(fh);
          SimpleFormatter formatter = new SimpleFormatter();
          fh.setFormatter(formatter);
