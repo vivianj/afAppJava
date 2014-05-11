@@ -29,8 +29,8 @@ public class Db {
     public Connection con = null;
     public Statement statement= null;
     public String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    public String username = "b04a669d1b1d5a",password = "e60882cf";
-    static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappa2hwggg1ar0";
+    public String username = "b1c1f90d1e6625",password = "0ef326b3";
+    static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappdev";
     String dbtime;
     
      public  Db(){
@@ -173,6 +173,25 @@ public class Db {
        } 
     }
     
+    public int getItemAccount(BigInteger orderId){
+           int count = 0;
+           try{
+            Statement st = (Statement) con.createStatement();
+            String sql = "SELECT count(*) FROM order_detail WHERE order_id = " + orderId;
+            
+            ResultSet rs = st.executeQuery(sql);
+            
+            while (rs.next()) {
+                count = rs.getInt(0);
+               }   
+                
+        }catch (SQLException ex) {
+               Logger lgr = Logger.getLogger(Db.class.getName());
+               lgr.log(Level.SEVERE, ex.getMessage(), ex);
+       } 
+     
+           return count;
+    }
     public HashMap<Integer, Double> getOrderDetailByOrderId(BigInteger orderId){
         HashMap<Integer, Double> result = new HashMap<Integer, Double>();
          

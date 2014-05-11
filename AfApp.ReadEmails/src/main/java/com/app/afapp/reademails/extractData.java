@@ -21,12 +21,13 @@ import java.util.regex.Pattern;
 public class extractData {
 
     static String QQ_REGEX = "qq\\s*:\\s*(\\d+)$";
-    static String STORE_ID_REGEX = "store\\s*(\\d+)";
-    static String DATE_REGEX = "\\d+\\s*(\\d+)\\s(\\d{4}-\\d{2}-\\d{2})\\s*\\d{2}:?\\d{2}\\s\\d+";
-    static String ITEM_REGEX = "(\\d+)\\s.*?\\$(\\d+\\s*\\.?\\d+)\\s*$";
-    static String TAX_REGEX = ".*?tax.*?\\$(\\d+\\s*[,\\.]\\d+)";
-    static String SubTotal_REGEX = "subtotal\\s*\\$(\\d+\\s*[,\\.]?\\d+)";
-    static String TOTAL_REGEX = ".*?\\s*total\\s*\\$(\\d+\\s*[,\\.]?\\d+)";
+    static String STORE_ID_REGEX = ".*?store\\s*(\\d+).*?";
+    static String DATE_REGEX = ".*?trans\\s*(\\d+)date/time\\s*(\\d{4}-\\d{2}-\\d{2})\\s*\\d{2}:?\\d{2}.*";
+    static String ITEM_REGEX = "(\\d{9}).*?\\$\\d+\\s*\\.?\\d+\\s*$";
+    static String PRICE_REGEX = "\\$(\\d+\\.\\d+)\\s*";
+    static String Subtotal_REGEX = ".*?subtotal\\s*\\$(\\d+\\s*[,\\.]\\d+).*";   
+    static String Tax_REGEX = ".*?subtotal\\s*\\$(\\d+\\s*[,\\.]?\\d+)\\s*tax.*?\\$(\\d+\\s*[,\\.]?\\d+)\\s*total\\s*\\$(\\d+\\s*[,\\.]?\\d+).*";
+    static String TOTAL_REGEX = ".*?\\s+total\\s*\\$(\\d+\\s*[,\\.]?\\d+)";
     static String orderId_regex = ".*?order\\s*#:.*?(\\d+).*";
     static String date_regex = ".*order\\s*date:.*?(\\d+/\\d+/\\d+).*";
     static String ship_date = ".*ship\\s*date:.*?(\\d+/\\d+/\\d+).*";
@@ -54,14 +55,18 @@ public class extractData {
     }
 
     public static String extractReceiptData(String input) {
+        if(input.contains("Tax")){
+           input = mergeTotalLines(input.replaceAll("<.*?>", ""));
+        }
         StringBuilder result = new StringBuilder();
         Scanner scanner = new Scanner(input);
         String storeid = "";
         String date = "";
         String email = "";
+        boolean start = false;
 
         while (scanner.hasNextLine()) {
-            String line = scanner.nextLine();
+            String line = scanner.nextLine().toLowerCase();
             
             if (line.trim().isEmpty()) {
                 continue;
@@ -74,28 +79,36 @@ public class extractData {
 
             if (line.matches(DATE_REGEX)) {
                 String[] dates = getContentFromLine(line, DATE_REGEX).split("\\s+");
-                result.append("Order" + ":" + storeid + dates[0] + "\n");
+                result.append("Order" + ":" + storeid + dates[0] + dates[1].replaceAll("-", "") +"\n");
                 result.append("Date:" + dates[1] + "\n");
+                start = true;
+                continue;
+            }
+            
+            if(start){
+              if ( line.trim().matches(ITEM_REGEX) ){
+                   String code = getContentFromLine(line.toLowerCase().trim(), ITEM_REGEX);
+                   result.append(code + " ");
+               }else if( line.toLowerCase().trim().matches(PRICE_REGEX) ){
+                   result.append(getContentFromLine(line.toLowerCase().trim(), PRICE_REGEX)); 
+                   result.append("\n");
+               }
+           }
+             
+          
+            if (line.toLowerCase().matches(Tax_REGEX)) {
+                start = false;
+                String[] totals = getContentFromLine(line, Tax_REGEX).split(" ");
+                result.append("Subtotal" + ":" + totals[0] + "\n");
+                result.append("Tax" + ":" + totals[1] + "\n");
+                result.append("Total" + ":" + totals[2] + "\n");
                 continue;
             }
 
-            if (line.matches(ITEM_REGEX)) {
-                result.append(getContentFromLine(line, ITEM_REGEX));
+            if (line.matches(Subtotal_REGEX)) {
+                String tax = getContentFromLine(line, Subtotal_REGEX);
+                result.append("Subtotal" + ":" + tax);
                 result.append("\n");
-            }
-
-            if (line.toLowerCase().matches(SubTotal_REGEX)) {
-                String subtotal = getContentFromLine(line, SubTotal_REGEX);
-                result.append("Subtotal" + ":" + subtotal);
-                result.append("\n");
-                continue;
-            }
-
-            if (line.matches(TAX_REGEX)) {
-                String tax = getContentFromLine(line, TAX_REGEX);
-                result.append("Tax" + ":" + tax);
-                result.append("\n");
-                continue;
             }
 
             if (line.toLowerCase().matches(TOTAL_REGEX)) {
@@ -104,18 +117,8 @@ public class extractData {
                 result.append("\n");
                 continue;
             }
+                  
             
-            if(line.toLowerCase().matches(orderId_regex)){
-                String orderId = getContentFromLine(line, orderId_regex);
-                result.append("Order:" + orderId);
-                result.append("\n");
-            }
-            
-             if(line.toLowerCase().matches(date_regex)){
-                String orderDate = getContentFromLine(line, date_regex);
-                result.append("Date:" + orderDate);
-                result.append("\n");
-            }
         }
         return result.toString();
     }
@@ -177,11 +180,9 @@ public class extractData {
                }
            }
              
-            if(line.toLowerCase().matches(subtotal_regex)){
-               start = false;
-           }
             
-           if( line.toLowerCase().matches(subtotal_regex) ){   
+           if( line.toLowerCase().matches(subtotal_regex) ){ 
+               start = false;
                String[] totals = getContentFromLine(line.toLowerCase(), subtotal_regex).split(" ");
                result.append( "Subtotal:"+totals[0]+ "\n");
                result.append( "Shipping:"+totals[1]+ "\n");
@@ -216,7 +217,12 @@ public class extractData {
                     int end = line.indexOf("Total Discount");
                     result.append(line.substring(0, end) + "\n");
                     start = false;
-                }   
+                }else if(line.contains("Change Due")){
+                    int end = line.indexOf("Change Due");
+                    result.append(line.substring(0, end) + "\n");
+                    start = false;
+                    
+                }  
                 if(!start){
                     result.append(line + "\n");
                 }else{
@@ -224,6 +230,7 @@ public class extractData {
                 }         
            }
            
+           System.out.print( "Merged string: "+ str);
            return result.toString();
       }
 }

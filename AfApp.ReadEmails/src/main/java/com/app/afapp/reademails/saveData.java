@@ -23,6 +23,7 @@ public class saveData {
 
     private BigInteger orderId;
     private java.sql.Date date;
+     private java.sql.Date shipdate;
     private double subtotal;
     private double tax;
     private double total;
@@ -30,6 +31,7 @@ public class saveData {
     private ArrayList<String> Items = new ArrayList<String>();
     private String date_format = "yyyy-MM-dd";
     private String email;
+    private int count;
     private static Logger LOG = Logger.getLogger("readEmail");
 
     public void getOrderData(String txt) throws ParseException {
@@ -40,8 +42,10 @@ public class saveData {
         tax = 0.0;
         ship_fee = 0.0;
         email = "";
-
+        count = 0;
+        
         while (scanner.hasNextLine()) {
+            
             String line = scanner.nextLine();
             if (line.trim().isEmpty()) {
                 continue;
@@ -59,6 +63,12 @@ public class saveData {
                 date = new java.sql.Date(sdf.parse(line.split(":")[1]).getTime());
                 continue;
             }
+            if (line.matches("ShipDate.*")) {
+                SimpleDateFormat sdf = new SimpleDateFormat(date_format);
+                shipdate = new java.sql.Date(sdf.parse(line.split(":")[1]).getTime());
+                continue;
+            }
+            
             if (line.matches("Subtotal.*")) {
                 subtotal = Double.parseDouble(line.split(":")[1].trim());
                 continue;
@@ -79,15 +89,19 @@ public class saveData {
             }
 
             Items.add(line.trim());
+            count++;
+        }
+        
+        if(shipdate == null){
+            shipdate = date;
         }
     }
 
-    public void saveOrderData(Db db, int orderStatusId, int userId) throws ClassNotFoundException, SQLException, ParseException {
-
+    public boolean saveOrderData(Db db, int orderStatusId, int userId) throws ClassNotFoundException, SQLException, ParseException {
 
         if (total == 0.0) {
             LOG.log(Level.WARNING, "Order :" + orderId + ", the total is zero!");
-            return;
+            return false;
         }
 
         if (!db.getOrderInfoByOrderId(orderId).isEmpty()) {
@@ -97,7 +111,7 @@ public class saveData {
                 java.util.Date orderdate = new SimpleDateFormat(date_format).parse(orderDate);
                 java.sql.Date currentOrderdate = new java.sql.Date(orderdate.getTime());
 
-                if ( date.after(currentOrderdate)) {
+                if ( shipdate.after(currentOrderdate) && count+ db.getItemAccount(orderId) <= 12) {
                     String orderInfo = db.getOrderInfoByOrderId(orderId);
                     String[] orderInfoData = orderInfo.split("#");
 
@@ -106,14 +120,14 @@ public class saveData {
                     ship_fee += Double.parseDouble(orderInfoData[4]);
                     total += Double.parseDouble(orderInfoData[5]);
                 } else {
-                    return;
+                    return true;
                 }
 
-                date = currentOrderdate; 
+                //date = currentOrderdate; 
             } else if (db.getOrderStatusByOrderId(orderId) == 1) {
                 db.deleteOrderDetailByOrderId(orderId);
             }else{
-                  return;
+                  return true;
             }
         }  
 
@@ -130,6 +144,9 @@ public class saveData {
 
                 LOG.log(Level.FINEST, "Insert : " + Integer.parseInt(items[0]));
             }
+                
         }
+        
+         return true;
     }
 }

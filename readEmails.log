@@ -1249,3 +1249,698 @@ Apr 22, 2014 9:16:32 PM com.app.afapp.reademails.InboxReader moveMessages
 FINEST: move successful!2
 Apr 22, 2014 9:16:32 PM com.app.afapp.reademails.InboxReader readEmail
 FINEST: Total number of emails :2
+May 11, 2014 11:57:27 AM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 11:57:58 AM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 11:58:01 AM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20035727229 Has Shipped
+May 11, 2014 11:58:01 AM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:kangyihong001@gmail.com
+May 11, 2014 11:58:01 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 11:58:01 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20035727229
+Date:2014-04-07
+611496914 43.20
+611054606 36.00
+610534704 16.00
+610753325 24.00
+610753317 24.00
+611129604 40.00
+611054631 36.00
+611129591 40.00
+610534712 16.00
+611496922 43.20
+Subtotal:318.40
+Shipping:0.00
+Tax:0.00
+Total:318.40
+
+May 11, 2014 11:58:01 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 11:58:02 AM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20035727229 Confirmation
+May 11, 2014 11:58:02 AM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:kangyihong001@gmail.com
+May 11, 2014 11:58:02 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 11:58:02 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20035727229
+Date:2014-04-07
+610534704 16.00
+610534712 16.00
+610753317 24.00
+610753325 24.00
+611054606 36.00
+611054631 36.00
+611129591 40.00
+611129604 40.00
+611496914 43.20
+611496922 43.20
+Subtotal:318.40
+Shipping:0.00
+Tax:0.00
+Total:318.40
+
+May 11, 2014 11:58:02 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 11:58:03 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 11:58:03 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20035727229
+Date:2014-04-07
+610534704 16.00
+610534712 16.00
+610753317 24.00
+610753325 24.00
+611054606 36.00
+611054631 36.00
+611129591 40.00
+611129604 40.00
+611496914 43.20
+611496922 43.20
+Subtotal:318.40
+Shipping:0.00
+Tax:0.00
+Total:318.40
+
+May 11, 2014 11:58:03 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 11:58:04 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 11:58:04 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: 
+May 11, 2014 11:58:04 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 11:58:04 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 11:58:04 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: 
+May 11, 2014 11:58:04 AM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 11:58:05 AM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!1
+May 11, 2014 11:58:05 AM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!3
+May 11, 2014 11:58:05 AM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :2
+May 11, 2014 12:24:21 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 12:24:24 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:24:24 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:24:24 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 12:25:36 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 12:25:39 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 12:25:39 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: 
+May 11, 2014 12:25:39 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 12:25:40 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:25:40 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!1
+May 11, 2014 12:25:40 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 12:26:49 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 12:26:55 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:26:55 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:26:55 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 12:27:18 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 12:27:23 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 12:27:23 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: 
+May 11, 2014 12:27:23 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 12:27:24 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:27:24 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!1
+May 11, 2014 12:27:24 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 12:38:30 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 12:38:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 12:38:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Total:63.00
+Total:65.55
+
+May 11, 2014 12:38:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 12:38:37 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:38:37 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!1
+May 11, 2014 12:38:37 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 12:41:21 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 12:41:25 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 12:41:25 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Total:223.04
+
+May 11, 2014 12:41:25 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 12:41:25 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 12:41:25 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Total:63.00
+Total:65.55
+
+May 11, 2014 12:41:25 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 12:41:26 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:41:26 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 12:41:27 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 12:45:15 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 12:45:20 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 12:45:20 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: 
+May 11, 2014 12:45:20 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 12:45:21 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 12:45:21 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: 
+May 11, 2014 12:45:21 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 12:45:21 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:45:22 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 12:45:22 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 12:51:49 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 12:51:53 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 12:51:53 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Total:223.04
+
+May 11, 2014 12:51:53 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 12:51:54 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 12:51:54 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Total:63.00
+Total:65.55
+
+May 11, 2014 12:51:54 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 12:51:54 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 12:51:55 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 12:51:55 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 2:44:26 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 2:44:31 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 2:44:31 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:106677940
+Date:2014-05-03
+Subtotal:63.00
+Total:63.00
+Total:65.55
+
+May 11, 2014 2:44:31 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 2:44:31 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order106677940 status is 2
+May 11, 2014 2:44:31 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 2:44:32 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!1
+May 11, 2014 2:44:32 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 3:04:42 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 3:04:46 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:04:46 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10585533720140504
+Date:2014-05-04
+610896182 14.08
+611054593 36.00
+610896191 14.08
+610707450 24.96
+611552509 12.00
+611552496 12.00
+610753309 24.00
+610707492 24.96
+610707468 24.96
+611054631 36.00
+Subtotal:223.04
+Total:223.04
+
+May 11, 2014 3:04:46 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:04:46 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order10585533720140504 status is 2
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610896182
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 611054593
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610896191
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610707450
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 611552509
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 611552496
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610753309
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610707492
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610707468
+May 11, 2014 3:04:47 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 611054631
+May 11, 2014 3:04:49 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:04:49 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10667794020140503
+Date:2014-05-03
+610493957 18.22
+610493957 18.22
+611251773 26.56
+Subtotal:63.00
+Total:65.55
+
+May 11, 2014 3:04:49 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:04:49 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order10667794020140503 status is 2
+May 11, 2014 3:04:49 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610493957
+May 11, 2014 3:04:49 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610493957
+May 11, 2014 3:04:49 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 611251773
+May 11, 2014 3:04:51 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:04:51 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 3:04:52 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 3:11:00 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 3:11:04 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:11:04 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10585533720140504
+Date:2014-05-04
+610896182 14.08
+611054593 36.00
+610896191 14.08
+610707450 24.96
+611552509 12.00
+611552496 12.00
+610753309 24.00
+610707492 24.96
+610707468 24.96
+611054631 36.00
+
+May 11, 2014 3:11:04 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:11:04 PM com.app.afapp.reademails.saveData saveOrderData
+WARNING: Order :10585533720140504, the total is zero!
+May 11, 2014 3:11:05 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:11:05 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10667794020140503
+Date:2014-05-03
+610493957 18.22
+610493957 18.22
+611251773 26.56
+Subtotal:63.00
+Tax:2.55
+Total:65.55
+
+May 11, 2014 3:11:05 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:11:06 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:11:06 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 3:11:06 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 3:13:30 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 3:13:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:13:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10585533720140504
+Date:2014-05-04
+610896182 14.08
+611054593 36.00
+610896191 14.08
+610707450 24.96
+611552509 12.00
+611552496 12.00
+610753309 24.00
+610707492 24.96
+610707468 24.96
+611054631 36.00
+
+May 11, 2014 3:13:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:13:35 PM com.app.afapp.reademails.saveData saveOrderData
+WARNING: Order :10585533720140504, the total is zero!
+May 11, 2014 3:13:35 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:13:36 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!1
+May 11, 2014 3:13:36 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 3:21:07 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 3:21:11 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:21:11 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10585533720140504
+Date:2014-05-04
+610896182 14.08
+611054593 36.00
+610896191 14.08
+610707450 24.96
+611552509 12.00
+611552496 12.00
+610753309 24.00
+610707492 24.96
+610707468 24.96
+611054631 36.00
+Total:223.04
+
+May 11, 2014 3:21:11 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:21:12 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:21:12 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10667794020140503
+Date:2014-05-03
+610493957 18.22
+610493957 18.22
+611251773 26.56
+Subtotal:63.00
+Tax:2.55
+Total:65.55
+
+May 11, 2014 3:21:12 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:21:12 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:21:13 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 3:21:13 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 3:23:31 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 3:23:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:23:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10585533720140504
+Date:2014-05-04
+610896182 14.08
+611054593 36.00
+610896191 14.08
+610707450 24.96
+611552509 12.00
+611552496 12.00
+610753309 24.00
+610707492 24.96
+610707468 24.96
+611054631 36.00
+Subtotal:223.04
+Total:223.04
+
+May 11, 2014 3:23:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:23:36 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:23:36 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10667794020140503
+Date:2014-05-03
+610493957 18.22
+610493957 18.22
+611251773 26.56
+Subtotal:63.00
+Tax:2.55
+Total:65.55
+
+May 11, 2014 3:23:36 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:23:36 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:23:37 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 3:23:37 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 3:26:31 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 3:26:34 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Your E-Receipt from Abercrombie & Fitch, Robinson Town Centre
+May 11, 2014 3:26:34 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:abercrombie@abercrombie-email.com
+May 11, 2014 3:26:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:26:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10585533720140504
+Date:2014-05-04
+610896182 14.08
+611054593 36.00
+610896191 14.08
+610707450 24.96
+611552509 12.00
+611552496 12.00
+610753309 24.00
+610707492 24.96
+610707468 24.96
+611054631 36.00
+Subtotal:223.04
+Total:223.04
+
+May 11, 2014 3:26:35 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:26:35 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Your E-Receipt from Abercrombie & Fitch, Ross Park
+May 11, 2014 3:26:35 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:abercrombie@abercrombie-email.com
+May 11, 2014 3:26:36 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:26:36 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10667794020140503
+Date:2014-05-03
+610493957 18.22
+610493957 18.22
+611251773 26.56
+Subtotal:63.00
+Tax:2.55
+Total:65.55
+
+May 11, 2014 3:26:36 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:26:36 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:26:37 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 3:26:37 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 3:30:40 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 3:30:43 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:30:43 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:30:43 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 3:30:57 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 3:31:01 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Your E-Receipt from Abercrombie & Fitch, Robinson Town Centre
+May 11, 2014 3:31:01 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:abercrombie@abercrombie-email.com
+May 11, 2014 3:31:02 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:31:02 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10585533720140504
+Date:2014-05-04
+610896182 14.08
+611054593 36.00
+610896191 14.08
+610707450 24.96
+611552509 12.00
+611552496 12.00
+610753309 24.00
+610707492 24.96
+610707468 24.96
+611054631 36.00
+Subtotal:223.04
+Total:223.04
+
+May 11, 2014 3:31:02 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:31:02 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Your E-Receipt from Abercrombie & Fitch, Ross Park
+May 11, 2014 3:31:02 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:abercrombie@abercrombie-email.com
+May 11, 2014 3:31:02 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:31:02 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:10667794020140503
+Date:2014-05-03
+610493957 18.22
+610493957 18.22
+611251773 26.56
+Subtotal:63.00
+Tax:2.55
+Total:65.55
+
+May 11, 2014 3:31:02 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:31:03 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:31:03 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 3:31:03 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :0
+May 11, 2014 3:31:24 PM com.app.afapp.reademails.ReadEmails main
+INFO: Begin Reading Emails:
+May 11, 2014 3:31:27 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Abercrombie & Fitch Order #20032517082 Has Shipped
+May 11, 2014 3:31:27 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:kangyihong001@gmail.com
+May 11, 2014 3:31:27 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:31:27 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20032517082
+Date:2014-02-27
+610152669 26.40
+610003428 29.00
+611054606 63.00
+611054606 63.00
+610003428 29.00
+610392929 15.00
+610152669 26.40
+610392929 15.00
+610472347 20.00
+610472347 20.00
+Subtotal:306.80
+Shipping:0.00
+Tax:0.00
+Total:306.80
+
+May 11, 2014 3:31:27 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:31:29 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:31:29 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20032517082
+Date:2014-02-27
+610152669 26.40
+610003428 29.00
+611054606 63.00
+611054606 63.00
+610003428 29.00
+610392929 15.00
+610152669 26.40
+610392929 15.00
+610472347 20.00
+610472347 20.00
+Subtotal:306.80
+Shipping:0.00
+Tax:0.00
+Total:306.80
+
+May 11, 2014 3:31:29 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:31:29 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email Subject:Fwd: Fw: Fw: Abercrombie & Fitch Order #20031708794 Has Shipped
+May 11, 2014 3:31:29 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Email From:kangyihong001@gmail.com
+May 11, 2014 3:31:29 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:31:29 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Order:20031708794
+Date:2014-02-16
+611066375 32.00
+610472355 16.80
+611066324 32.00
+610490094 40.00
+610490140 40.00
+610472355 16.80
+611066375 32.00
+610392953 12.00
+610490094 40.00
+611066324 32.00
+610392953 12.00
+610490140 40.00
+Subtotal:345.60
+Shipping:0.00
+Tax:20.74
+Total:366.34
+
+May 11, 2014 3:31:29 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:31:29 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: insert order20031708794 status is 2
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 611066375
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610472355
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 611066324
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610490094
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610490140
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610472355
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 611066375
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610392953
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610490094
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 611066324
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610392953
+May 11, 2014 3:31:30 PM com.app.afapp.reademails.saveData saveOrderData
+FINEST: Insert : 610490140
+May 11, 2014 3:31:31 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Input :
+May 11, 2014 3:31:31 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: Subtotal:345.60
+Shipping:0.00
+Tax:20.74
+Total:366.34
+
+May 11, 2014 3:31:31 PM com.app.afapp.reademails.InboxReader printParts
+FINEST: **************************
+May 11, 2014 3:31:31 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!0
+May 11, 2014 3:31:31 PM com.app.afapp.reademails.InboxReader moveMessages
+FINEST: move successful!2
+May 11, 2014 3:31:31 PM com.app.afapp.reademails.InboxReader readEmail
+FINEST: Total number of emails :2
