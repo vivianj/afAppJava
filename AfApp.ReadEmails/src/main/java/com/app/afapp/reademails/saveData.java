@@ -33,6 +33,7 @@ public class saveData {
     private String email;
     private int count;
     private static Logger LOG = Logger.getLogger("readEmail");
+   
 
     public void getOrderData(String txt) throws ParseException {
         Scanner scanner = new Scanner(txt);

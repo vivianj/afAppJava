@@ -35,7 +35,7 @@ public class extractData {
     static String end_regex = "total\\s*discount\\s+\\$.*";
     static String code_regex = ".*?(\\d{9})";
     static String price_regex = "(?:price)?\\$?(\\d+\\.\\d+).*";
-    static String subtotal_regex = ".*?subtotal.*?\\$?(\\d+\\.\\d{2}).*?shipping.*?&.*?handling.*?\\$?(\\d+\\.\\d{2}).*?sales.*?tax.*?\\$?(\\d+\\.\\d{2}).*?total.*?\\$?(\\d+\\.\\d{2}).*";
+    static String subtotal_regex = ".*?subtotal.*?\\$?(\\d+\\.\\d{2}).*?shipping.*?\\$?(\\d+\\.\\d{2}).*?tax.*?\\$?(\\d+\\.\\d{2}).*?total.*?\\$?(\\d+\\.\\d{2}).*";
     static String total_regex = "\\$\\d+\\.\\d+\\s*order\\s+total\\s+\\$?(\\d+\\.\\d+)\\s.*";
     static String tax_regex = ".*estimated\\s+sales\\s+tax\\s+\\$?(\\d+\\.\\d+)\\s";
     static String shipping_regex = ".*\\sshipping\\s+&\\s*handling\\s+\\$?(\\d+\\.\\d+)\\s.*";
@@ -56,7 +56,7 @@ public class extractData {
 
     public static String extractReceiptData(String input) {
         if(input.contains("Tax")){
-           input = mergeTotalLines(input.replaceAll("<.*?>", ""));
+           input = mergeTotalLines(input.replaceAll("<.*?>", "").replaceAll("=20", ""));
         }
         StringBuilder result = new StringBuilder();
         Scanner scanner = new Scanner(input);

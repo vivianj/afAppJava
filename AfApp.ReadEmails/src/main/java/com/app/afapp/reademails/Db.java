@@ -29,10 +29,9 @@ public class Db {
     public Connection con = null;
     public Statement statement= null;
     public String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    public String username = "b1c1f90d1e6625",password = "0ef326b3";
-    static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappdev";
-    String dbtime;
-    
+    public String username = "b04a669d1b1d5a",password = "e60882cf";
+    static String dbname = "jdbc:mysql://us-cdbr-azure-east-c.cloudapp.net/afappa2hwggg1ar0";
+      
      public  Db(){
     }
     

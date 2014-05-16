@@ -28,100 +28,108 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.htmlcleaner.HtmlCleaner;
 
-
 public class InboxReader {
 
     static int orderStatusId = 1;
     private static Logger LOG = Logger.getLogger("readEmail");
     static public Db db = new Db();
     static int userId = 0;
-    static String af_confirmation_regex = ".*?abercrombie & fitch order #.*\\d+ confirmation.*";
-    static String af_ship_regex = ".*?abercrombie & fitch order #.*\\d+ has shipped.*";
-    static String af_orderId_regex = ".*?abercrombie & fitch order #.*?(\\d+)\\s.*";
-    static String af_store_ereceipt_regex="Your E-Receipt from Abercrombie & Fitch.*";
-    
-    public  static void readEmail() throws ClassNotFoundException, SQLException {
+    static String af_confirmation_regex = ".*?order #.*\\d+ confirmation.*";
+    static String af_ship_regex = ".*?order #.*\\d+ has shipped.*";
+    static String af_orderId_regex = ".*?order #.*?(\\d+)\\s.*";
+    static String af_store_ereceipt_regex = ".*?Your E-Receipt from Abercrombie & Fitch.*";
+    private static boolean move = false;
 
-         ArrayList<Message> orderMsgs = new ArrayList<Message>();
-         ArrayList<Message> shipMsgs = new ArrayList<Message>();
-    
+    public static void readEmail() throws ClassNotFoundException, SQLException {
+
+        ArrayList<Message> orderMsgs = new ArrayList<Message>();
+        ArrayList<Message> shipMsgs = new ArrayList<Message>();
+
         String host = "imap.gmail.com";
         String protocol = "imaps";
-        String username = "jiangyy12@gmail.com";
-        String password = "jane@8612";
-        String folder = "AF";
-        
+        String username = "kangyihong001@gmail.com";
+        String password = "831218xx";
+        String folder = "Inbox";
+
         Flags flag = new Flags(Flags.Flag.ANSWERED);
-        
+
         try {
             Store store = connectEmail(username, password, host, protocol);
-            
+
             Folder inbox = store.getFolder(folder);
             Folder orderFolder = store.getFolder("OrderConfirmation");
             Folder shipFolder = store.getFolder("ShippingConfirmation");
 
             inbox.open(Folder.READ_WRITE);
             FlagTerm ft = new FlagTerm(flag, false);
-            
+
             Message messages[] = inbox.search(ft);
-            
+
             int i = 0;
 
             db.dbConnect();
-            
+
             for (Message message : messages) {
 
                 String subject = message.getSubject();
                 orderStatusId = 1;
-                    
+
                 if (subject.toLowerCase().matches(af_confirmation_regex) || subject.toLowerCase().matches(af_ship_regex)) {
-                    
+
                     i++;
-                    
-                    LOG.log(Level.FINEST,   "Email Subject:"+ subject);
+
+                    LOG.log(Level.FINEST, "Email Subject:" + subject);
                     Address[] from = message.getFrom();
                     String email = getFromAdd(from[0].toString().trim());
-                    
-                    LOG.log(Level.FINEST,   "Email From:"+ email);
+
+                    LOG.log(Level.FINEST, "Email From:" + email);
                     userId = db.saveUser(email);
 
                     String orderId = extractData.getContentFromLine(subject, af_orderId_regex);
-                    BigInteger order_id =  new BigInteger(orderId.trim());
+                    BigInteger order_id = new BigInteger(orderId.trim());
 
-                    
+
                     if (subject.toLowerCase().matches(af_ship_regex)) {
                         orderStatusId = 2;
                     }
-                    
-                    if(subject.toLowerCase().matches("af_confirmation_regex")){
-                        orderMsgs.add(message);
-                    }else{
-                        shipMsgs.add(message);
+
+                    try {
+                        printParts(message, subject);
+                    } catch (Exception e) {
+                        e.printStackTrace();
                     }
 
-                        try {
-                            printParts(message, subject);
-                        } catch (Exception e) {
-                            e.printStackTrace();
+                    if (move) {
+                        if (subject.toLowerCase().matches("af_confirmation_regex")) {
+                            orderMsgs.add(message);
+                        } else {
+                            shipMsgs.add(message);
                         }
+                    }
+
+
                 }
-                
-                if(subject.matches(af_store_ereceipt_regex)){
-                    LOG.log(Level.FINEST,   "Email Subject:"+ subject);
+
+                if (subject.matches(af_store_ereceipt_regex)) {
+                    LOG.log(Level.FINEST, "Email Subject:" + subject);
                     Address[] from = message.getFrom();
                     String email = getFromAdd(from[0].toString().trim());
-                    
-                    LOG.log(Level.FINEST,   "Email From:"+ email);
+
+                    LOG.log(Level.FINEST, "Email From:" + email);
                     userId = db.saveUser(email);
 
-                    shipMsgs.add(message);
                     orderStatusId = 2;
-                    
+
                     try {
-                            printParts(message, subject);
-                        } catch (Exception e) {
-                            e.printStackTrace();
-                        }
+                        printParts(message, subject);
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                    if (move) {
+                        shipMsgs.add(message);
+                        move = false;
+                    }
+
                 }
             }
 
@@ -134,7 +142,7 @@ public class InboxReader {
             moveMessages(shipmessages, inbox, shipFolder);
 
             db.dbColse();
-       
+
             LOG.log(Level.FINEST, "Total number of emails :" + i);
         } catch (NoSuchProviderException e) {
             e.printStackTrace();
@@ -142,7 +150,7 @@ public class InboxReader {
         } catch (MessagingException e) {
             e.printStackTrace();
             System.exit(2);
-        } 
+        }
     }
 
     public static void moveMessages(Message[] messages, Folder fromFolder, Folder destFolder) throws MessagingException {
@@ -159,7 +167,7 @@ public class InboxReader {
 
         fromFolder.copyMessages(messages, destFolder);
         LOG.log(Level.FINEST, "move successful!" + messages.length);
-        
+
         Flags deleted = new Flags(Flags.Flag.DELETED);
         fromFolder.setFlags(messages, deleted, true);
     }
@@ -176,29 +184,29 @@ public class InboxReader {
         Object o = p.getContent();
         if (o instanceof String) {
             String input = "";
-            if(subject.matches(af_store_ereceipt_regex)){
-               String s;
-               HtmlCleaner hc = new HtmlCleaner();
-                s = hc.clean((String) o).getText().toString().replaceAll("[\\\r]+","").replaceAll("&nbsp;", "");
-                
-                input= extractData.extractReceiptData(s);
-            }else{
-                 input = extractData.extractEmailData((String) o);
+            if (subject.matches(af_store_ereceipt_regex)) {
+                String s;
+                HtmlCleaner hc = new HtmlCleaner();
+                s = hc.clean((String) o).getText().toString().replaceAll("[\\\r]+", "").replaceAll("&nbsp;", "");
+
+                input = extractData.extractReceiptData(s);
+            } else {
+                input = extractData.extractEmailData((String) o);
             }
             saveData savedata = new saveData();
 
             System.out.println("Input : ");
             System.out.println(input);
             System.out.println("///////////////////////////");
-            
-            LOG.log(Level.FINEST, "Input :" );
+
+            LOG.log(Level.FINEST, "Input :");
             LOG.log(Level.FINEST, input);
             LOG.log(Level.FINEST, "**************************");
-            
+
             if (input.contains("Order")) {
-                savedata.getOrderData( input);
-                boolean status = savedata.saveOrderData(db,orderStatusId, userId);
-                
+                savedata.getOrderData(input);
+                move = savedata.saveOrderData(db, orderStatusId, userId);
+
             }
         } else if (o instanceof Multipart) {
             System.out.println("This is a Multipart");
