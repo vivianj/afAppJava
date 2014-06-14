@@ -37,7 +37,7 @@ public class InboxReader {
     static String af_confirmation_regex = ".*?order #.*\\d+ confirmation.*";
     static String af_ship_regex = ".*?order #.*\\d+ has shipped.*";
     static String af_orderId_regex = ".*?order #.*?(\\d+)\\s.*";
-    static String af_store_ereceipt_regex = ".*?Your E-Receipt from Abercrombie & Fitch.*";
+    static String af_store_ereceipt_regex = ".*?Your E-Receipt from.*";
     private static boolean move = false;
 
     public static void readEmail() throws ClassNotFoundException, SQLException {
@@ -72,6 +72,7 @@ public class InboxReader {
             for (Message message : messages) {
 
                 String subject = message.getSubject();
+                
                 orderStatusId = 1;
 
                 if (subject.toLowerCase().matches(af_confirmation_regex) || subject.toLowerCase().matches(af_ship_regex)) {
